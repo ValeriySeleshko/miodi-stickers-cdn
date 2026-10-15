@@ -9,7 +9,7 @@
     "price_rub": 169,
     "price_formatted": "169 ₽",
     "asset_category_key": "car_parts",
-    "stickers_count": 85,
+    "stickers_count": 81,
     "source_file": "Sticker_Car parts.jpg",
     "grid": "9x9",
     "stickers": [
@@ -93,15 +93,20 @@
       "car_parts_78.webp",
       "car_parts_79.webp",
       "car_parts_80.webp",
-      "car_parts_81.webp",
-      "car_parts_82.webp",
-      "car_parts_83.webp",
-      "car_parts_84.webp",
-      "car_parts_85.webp"
+      "car_parts_81.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Авто"
+    "release_date": "2099-12-31",
+    "title_uk": "Авто",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792057668979,
+    "is_disabled": true,
+    "saved_release_date": "2026-10-15"
   },
   {
     "id": "hardware_electronics",
@@ -168,8 +173,16 @@
       "hardware_electronics_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Гаджети"
+    "release_date": "2099-12-31",
+    "title_uk": "Гаджети",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "dachshund",
@@ -236,8 +249,17 @@
       "dachshund_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Такси"
+    "release_date": "2099-12-31",
+    "title_uk": "Такси",
+    "cover_version": 1792052638130,
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "desert",
@@ -304,8 +326,16 @@
       "desert_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Пустеля"
+    "release_date": "2099-12-31",
+    "title_uk": "Пустеля",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "dogs",
@@ -319,7 +349,7 @@
     "asset_category_key": "dogs",
     "stickers_count": 56,
     "source_file": "Sticker_Dogs.jpg",
-    "grid": "7x7",
+    "grid": "8x7",
     "stickers": [
       "dogs_01.webp",
       "dogs_02.webp",
@@ -379,8 +409,17 @@
       "dogs_56.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Собаки"
+    "release_date": "2099-12-31",
+    "title_uk": "Собаки",
+    "cover_version": 1792063322393,
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "forest",
@@ -447,8 +486,17 @@
       "forest_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Ліс"
+    "release_date": "2099-12-31",
+    "title_uk": "Ліс",
+    "cover_version": 1792052662535,
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "golden_retriever",
@@ -515,9 +563,17 @@
       "golden_retriever_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "title_uk": "Ретривер",
-    "cover_version": 1792052149319
+    "cover_version": 1792052149319,
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "insects",
@@ -584,8 +640,16 @@
       "insects_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Комахи"
+    "release_date": "2099-12-31",
+    "title_uk": "Комахи",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "jungle",
@@ -652,9 +716,17 @@
       "jungle_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "title_uk": "Джунглі",
-    "cover_version": 1792052149319
+    "cover_version": 1792052149319,
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "kitchen",
@@ -721,8 +793,17 @@
       "kitchen_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Кухня"
+    "release_date": "2099-12-31",
+    "title_uk": "Кухня",
+    "cover_version": 1792052922969,
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "love",
@@ -734,7 +815,7 @@
     "price_rub": 169,
     "price_formatted": "169 ₽",
     "asset_category_key": "love",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "Sticker_Love.jpg",
     "grid": "7x7",
     "stickers": [
@@ -786,12 +867,20 @@
       "love_46.webp",
       "love_47.webp",
       "love_48.webp",
-      "love_49.webp",
-      "love_50.webp"
+      "love_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Любов"
+    "release_date": "2099-12-31",
+    "title_uk": "Любов",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792056893771,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "manycats",
@@ -858,8 +947,17 @@
       "manycats_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Котики"
+    "release_date": "2099-12-31",
+    "title_uk": "Котики",
+    "cover_version": 1792052931158,
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "night",
@@ -871,7 +969,7 @@
     "price_rub": 169,
     "price_formatted": "169 ₽",
     "asset_category_key": "night",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "Sticker_Night.jpg",
     "grid": "7x7",
     "stickers": [
@@ -923,12 +1021,20 @@
       "night_46.webp",
       "night_47.webp",
       "night_48.webp",
-      "night_49.webp",
-      "night_50.webp"
+      "night_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Ніч"
+    "release_date": "2099-12-31",
+    "title_uk": "Ніч",
+    "cover_version": 1792063338940,
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "owl",
@@ -995,8 +1101,17 @@
       "owl_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Сови"
+    "release_date": "2099-12-31",
+    "title_uk": "Сови",
+    "cover_version": 1792052953291,
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "pug_puppy",
@@ -1008,7 +1123,7 @@
     "price_rub": 169,
     "price_formatted": "169 ₽",
     "asset_category_key": "pug_puppy",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "Sticker_Pug puppy.jpg",
     "grid": "7x7",
     "stickers": [
@@ -1060,12 +1175,20 @@
       "pug_puppy_46.webp",
       "pug_puppy_47.webp",
       "pug_puppy_48.webp",
-      "pug_puppy_49.webp",
-      "pug_puppy_50.webp"
+      "pug_puppy_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Мопси"
+    "release_date": "2099-12-31",
+    "title_uk": "Мопси",
+    "cover_version": 1792063344829,
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "rabbit",
@@ -1132,8 +1255,17 @@
       "rabbit_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Кролики"
+    "release_date": "2099-12-31",
+    "title_uk": "Кролики",
+    "cover_version": 1792052970877,
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "sad_mood",
@@ -1200,8 +1332,16 @@
       "sad_mood_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Сум"
+    "release_date": "2099-12-31",
+    "title_uk": "Сум",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "socks",
@@ -1268,8 +1408,16 @@
       "socks_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Шкарпетки"
+    "release_date": "2099-12-31",
+    "title_uk": "Шкарпетки",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "space",
@@ -1281,7 +1429,7 @@
     "price_rub": 169,
     "price_formatted": "169 ₽",
     "asset_category_key": "space",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "Sticker_Space.jpg",
     "grid": "7x7",
     "stickers": [
@@ -1333,12 +1481,20 @@
       "space_46.webp",
       "space_47.webp",
       "space_48.webp",
-      "space_49.webp",
-      "space_50.webp"
+      "space_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Космос"
+    "release_date": "2099-12-31",
+    "title_uk": "Космос",
+    "cover_version": 1792063355131,
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "splashes",
@@ -1405,8 +1561,17 @@
       "splashes_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Бризки"
+    "release_date": "2099-12-31",
+    "title_uk": "Бризки",
+    "cover_version": 1792052998834,
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "stationery",
@@ -1480,8 +1645,17 @@
       "stationery_56.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Канцелярія"
+    "release_date": "2099-12-31",
+    "title_uk": "Канцелярія",
+    "cover_version": 1792053008317,
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "summer",
@@ -1548,9 +1722,17 @@
       "summer_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "title_uk": "Літо",
-    "cover_version": 1792052149319
+    "cover_version": 1792052149319,
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "superhero",
@@ -1617,8 +1799,17 @@
       "superhero_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Герої"
+    "release_date": "2099-12-31",
+    "title_uk": "Герої",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063395217,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "underpants",
@@ -1685,8 +1876,17 @@
       "underpants_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Труселя"
+    "release_date": "2099-12-31",
+    "title_uk": "Труселя",
+    "cover_version": 1792053033283,
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "wildcat",
@@ -1753,8 +1953,17 @@
       "wildcat_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Дикі кішки"
+    "release_date": "2099-12-31",
+    "title_uk": "Дикі кішки",
+    "cover_version": 1792053055286,
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "winter",
@@ -1821,8 +2030,17 @@
       "winter_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2026-01-01",
-    "title_uk": "Зима"
+    "release_date": "2099-12-31",
+    "title_uk": "Зима",
+    "cover_version": 1792053068072,
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "01_vesna",
@@ -1834,11 +2052,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "01_vesna",
-    "stickers_count": 52,
+    "stickers_count": 49,
     "source_file": "01_Весна.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "01_vesna_01.webp",
       "01_vesna_02.webp",
@@ -1888,12 +2106,18 @@
       "01_vesna_46.webp",
       "01_vesna_47.webp",
       "01_vesna_48.webp",
-      "01_vesna_49.webp",
-      "01_vesna_50.webp",
-      "01_vesna_51.webp",
-      "01_vesna_52.webp"
+      "01_vesna_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792056943872,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "02_utro_rassvet",
@@ -1905,11 +2129,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "02_utro_rassvet",
-    "stickers_count": 51,
+    "stickers_count": 48,
     "source_file": "02_Утро_Рассвет.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "02_utro_rassvet_01.webp",
       "02_utro_rassvet_02.webp",
@@ -1958,12 +2182,18 @@
       "02_utro_rassvet_45.webp",
       "02_utro_rassvet_46.webp",
       "02_utro_rassvet_47.webp",
-      "02_utro_rassvet_48.webp",
-      "02_utro_rassvet_49.webp",
-      "02_utro_rassvet_50.webp",
-      "02_utro_rassvet_51.webp"
+      "02_utro_rassvet_48.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063430135,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "03_radost_schaste",
@@ -1975,9 +2205,9 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "03_radost_schaste",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "03_Радость_Счастье.jpg",
     "grid": "7x7",
     "stickers": [
@@ -2028,9 +2258,19 @@
       "03_radost_schaste_45.webp",
       "03_radost_schaste_46.webp",
       "03_radost_schaste_47.webp",
-      "03_radost_schaste_48.webp"
+      "03_radost_schaste_48.webp",
+      "03_radost_schaste_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063437932,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "04_zlost_sarkazm",
@@ -2042,11 +2282,11 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "04_zlost_sarkazm",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "04_Злость_Сарказм.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "04_zlost_sarkazm_01.webp",
       "04_zlost_sarkazm_02.webp",
@@ -2096,10 +2336,18 @@
       "04_zlost_sarkazm_46.webp",
       "04_zlost_sarkazm_47.webp",
       "04_zlost_sarkazm_48.webp",
-      "04_zlost_sarkazm_49.webp",
-      "04_zlost_sarkazm_50.webp"
+      "04_zlost_sarkazm_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063451404,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "05_dzen_spokoystvie",
@@ -2111,7 +2359,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "05_dzen_spokoystvie",
     "stickers_count": 49,
     "source_file": "05_Дзен_Спокойствие.jpg",
@@ -2167,7 +2415,16 @@
       "05_dzen_spokoystvie_48.webp",
       "05_dzen_spokoystvie_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063459691,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "06_korgi",
@@ -2179,7 +2436,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "06_korgi",
     "stickers_count": 49,
     "source_file": "06_Корги.jpg",
@@ -2235,7 +2492,16 @@
       "06_korgi_48.webp",
       "06_korgi_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792063464308,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "07_frantsuzskie_buldogi_i_chikhuakhua",
@@ -2247,7 +2513,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "07_frantsuzskie_buldogi_i_chikhuakhua",
     "stickers_count": 49,
     "source_file": "07_Французские_бульдоги_и_Чихуахуа.jpg",
@@ -2303,7 +2569,15 @@
       "07_frantsuzskie_buldogi_i_chikhuakhua_48.webp",
       "07_frantsuzskie_buldogi_i_chikhuakhua_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "08_kapibary",
@@ -2315,7 +2589,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "08_kapibary",
     "stickers_count": 49,
     "source_file": "08_Капибары.jpg",
@@ -2371,7 +2645,16 @@
       "08_kapibary_48.webp",
       "08_kapibary_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792063474738,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "09_enoty_i_lisichki",
@@ -2383,11 +2666,11 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "09_enoty_i_lisichki",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "09_Еноты_и_Лисички.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "09_enoty_i_lisichki_01.webp",
       "09_enoty_i_lisichki_02.webp",
@@ -2437,10 +2720,18 @@
       "09_enoty_i_lisichki_46.webp",
       "09_enoty_i_lisichki_47.webp",
       "09_enoty_i_lisichki_48.webp",
-      "09_enoty_i_lisichki_49.webp",
-      "09_enoty_i_lisichki_50.webp"
+      "09_enoty_i_lisichki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792063494464,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "10_pandy_medvedi",
@@ -2452,7 +2743,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "10_pandy_medvedi",
     "stickers_count": 49,
     "source_file": "10_Панды_Медведи.jpg",
@@ -2508,7 +2799,15 @@
       "10_pandy_medvedi_48.webp",
       "10_pandy_medvedi_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "11_ptitsy_pernatye",
@@ -2520,7 +2819,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "11_ptitsy_pernatye",
     "stickers_count": 49,
     "source_file": "11_Птицы_Пернатые.jpg",
@@ -2576,7 +2875,15 @@
       "11_ptitsy_pernatye_48.webp",
       "11_ptitsy_pernatye_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "12_dinozavry",
@@ -2588,7 +2895,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "12_dinozavry",
     "stickers_count": 49,
     "source_file": "12_Динозавры.jpg",
@@ -2644,7 +2951,16 @@
       "12_dinozavry_48.webp",
       "12_dinozavry_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063520733,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "13_kofe_i_chay",
@@ -2656,7 +2972,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "13_kofe_i_chay",
     "stickers_count": 49,
     "source_file": "13_Кофе_и_Чай.jpg",
@@ -2712,7 +3028,15 @@
       "13_kofe_i_chay_48.webp",
       "13_kofe_i_chay_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "14_frukty_i_yagody",
@@ -2724,7 +3048,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "14_frukty_i_yagody",
     "stickers_count": 49,
     "source_file": "14_Фрукты_и_Ягоды.jpg",
@@ -2780,7 +3104,16 @@
       "14_frukty_i_yagody_48.webp",
       "14_frukty_i_yagody_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063538621,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "15_fastfud",
@@ -2792,7 +3125,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "15_fastfud",
     "stickers_count": 49,
     "source_file": "15_Фастфуд.jpg",
@@ -2848,7 +3181,16 @@
       "15_fastfud_48.webp",
       "15_fastfud_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063543722,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "16_vypechka",
@@ -2860,7 +3202,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "16_vypechka",
     "stickers_count": 49,
     "source_file": "16_Выпечка.jpg",
@@ -2916,7 +3258,15 @@
       "16_vypechka_48.webp",
       "16_vypechka_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "17_skotch_i_plastyri",
@@ -2928,7 +3278,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "17_skotch_i_plastyri",
     "stickers_count": 49,
     "source_file": "17_Скотч_и_Пластыри.jpg",
@@ -2984,7 +3334,16 @@
       "17_skotch_i_plastyri_48.webp",
       "17_skotch_i_plastyri_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792063556654,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "18_neon",
@@ -2996,7 +3355,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "18_neon",
     "stickers_count": 49,
     "source_file": "18_Неон.jpg",
@@ -3052,7 +3411,16 @@
       "18_neon_48.webp",
       "18_neon_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063562990,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "19_akvarel_mazki_kistyu",
@@ -3064,7 +3432,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "19_akvarel_mazki_kistyu",
     "stickers_count": 49,
     "source_file": "19_Акварель_Мазки_кистью.jpg",
@@ -3120,7 +3488,16 @@
       "19_akvarel_mazki_kistyu_48.webp",
       "19_akvarel_mazki_kistyu_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063573989,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "20_komiksy",
@@ -3132,9 +3509,9 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "20_komiksy",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "20_Комиксы.jpg",
     "grid": "7x7",
     "stickers": [
@@ -3185,9 +3562,19 @@
       "20_komiksy_45.webp",
       "20_komiksy_46.webp",
       "20_komiksy_47.webp",
-      "20_komiksy_48.webp"
+      "20_komiksy_48.webp",
+      "20_komiksy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063582472,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "21_plyonka_i_retro",
@@ -3199,7 +3586,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "21_plyonka_i_retro",
     "stickers_count": 49,
     "source_file": "21_Плёнка_и_Ретро.jpg",
@@ -3255,7 +3642,16 @@
       "21_plyonka_i_retro_48.webp",
       "21_plyonka_i_retro_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063627194,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "22_gory_i_pokhod",
@@ -3267,7 +3663,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "22_gory_i_pokhod",
     "stickers_count": 49,
     "source_file": "22_Горы_и_Поход.jpg",
@@ -3323,7 +3719,15 @@
       "22_gory_i_pokhod_48.webp",
       "22_gory_i_pokhod_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "23_pogoda",
@@ -3335,7 +3739,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "23_pogoda",
     "stickers_count": 49,
     "source_file": "23_Погода.jpg",
@@ -3391,7 +3795,16 @@
       "23_pogoda_48.webp",
       "23_pogoda_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063846233,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "24_sad_i_ogorod",
@@ -3403,7 +3816,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "24_sad_i_ogorod",
     "stickers_count": 49,
     "source_file": "24_Сад_и_Огород.jpg",
@@ -3459,7 +3872,16 @@
       "24_sad_i_ogorod_48.webp",
       "24_sad_i_ogorod_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063856184,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "25_pizhamnaya_vecherinka",
@@ -3471,7 +3893,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "25_pizhamnaya_vecherinka",
     "stickers_count": 49,
     "source_file": "25_Пижамная_вечеринка.jpg",
@@ -3527,7 +3949,16 @@
       "25_pizhamnaya_vecherinka_48.webp",
       "25_pizhamnaya_vecherinka_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063869253,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "26_uborka_byt",
@@ -3539,11 +3970,11 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "26_uborka_byt",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "26_Уборка_Быт.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "26_uborka_byt_01.webp",
       "26_uborka_byt_02.webp",
@@ -3593,10 +4024,18 @@
       "26_uborka_byt_46.webp",
       "26_uborka_byt_47.webp",
       "26_uborka_byt_48.webp",
-      "26_uborka_byt_49.webp",
-      "26_uborka_byt_50.webp"
+      "26_uborka_byt_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063885096,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "27_muzyka",
@@ -3608,7 +4047,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "27_muzyka",
     "stickers_count": 49,
     "source_file": "27_Музыка.jpg",
@@ -3664,7 +4103,16 @@
       "27_muzyka_48.webp",
       "27_muzyka_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063894915,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "28_puteshestviya",
@@ -3676,7 +4124,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "28_puteshestviya",
     "stickers_count": 49,
     "source_file": "28_Путешествия.jpg",
@@ -3732,7 +4180,16 @@
       "28_puteshestviya_48.webp",
       "28_puteshestviya_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063905018,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "29_monstriki",
@@ -3744,7 +4201,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "29_monstriki",
     "stickers_count": 49,
     "source_file": "29_Монстрики.jpg",
@@ -3800,7 +4257,16 @@
       "29_monstriki_48.webp",
       "29_monstriki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792063911929,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "30_prisheltsy_nlo",
@@ -3812,7 +4278,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "30_prisheltsy_nlo",
     "stickers_count": 49,
     "source_file": "30_Пришельцы_НЛО.jpg",
@@ -3868,7 +4334,15 @@
       "30_prisheltsy_nlo_48.webp",
       "30_prisheltsy_nlo_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "31_geyming",
@@ -3880,7 +4354,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "31_geyming",
     "stickers_count": 49,
     "source_file": "31_Гейминг.jpg",
@@ -3936,7 +4410,16 @@
       "31_geyming_48.webp",
       "31_geyming_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063941970,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "32_nastolki",
@@ -3948,7 +4431,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "32_nastolki",
     "stickers_count": 49,
     "source_file": "32_Настолки.jpg",
@@ -4004,7 +4487,15 @@
       "32_nastolki_48.webp",
       "32_nastolki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "33_rukodelie_i_khobbi",
@@ -4016,7 +4507,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "33_rukodelie_i_khobbi",
     "stickers_count": 49,
     "source_file": "33_Рукоделие_и_Хобби.jpg",
@@ -4072,7 +4563,16 @@
       "33_rukodelie_i_khobbi_48.webp",
       "33_rukodelie_i_khobbi_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063956556,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "34_knigi_i_chtenie",
@@ -4084,11 +4584,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "34_knigi_i_chtenie",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "34_Книги_и_Чтение.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "34_knigi_i_chtenie_01.webp",
       "34_knigi_i_chtenie_02.webp",
@@ -4138,10 +4638,18 @@
       "34_knigi_i_chtenie_46.webp",
       "34_knigi_i_chtenie_47.webp",
       "34_knigi_i_chtenie_48.webp",
-      "34_knigi_i_chtenie_49.webp",
-      "34_knigi_i_chtenie_50.webp"
+      "34_knigi_i_chtenie_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063966092,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "35_kino_i_teatr",
@@ -4153,7 +4661,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "35_kino_i_teatr",
     "stickers_count": 49,
     "source_file": "35_Кино_и_Театр.jpg",
@@ -4209,7 +4717,16 @@
       "35_kino_i_teatr_48.webp",
       "35_kino_i_teatr_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792063971960,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "36_shapki_i_shlyapy",
@@ -4221,7 +4738,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "36_shapki_i_shlyapy",
     "stickers_count": 49,
     "source_file": "36_Шапки_и_Шляпы.jpg",
@@ -4277,7 +4794,16 @@
       "36_shapki_i_shlyapy_48.webp",
       "36_shapki_i_shlyapy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063977626,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "37_obuv",
@@ -4289,11 +4815,11 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "37_obuv",
-    "stickers_count": 51,
+    "stickers_count": 49,
     "source_file": "37_Обувь.jpg",
-    "grid": "7x9",
+    "grid": "7x7",
     "stickers": [
       "37_obuv_01.webp",
       "37_obuv_02.webp",
@@ -4343,11 +4869,18 @@
       "37_obuv_46.webp",
       "37_obuv_47.webp",
       "37_obuv_48.webp",
-      "37_obuv_49.webp",
-      "37_obuv_50.webp",
-      "37_obuv_51.webp"
+      "37_obuv_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792063989754,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "38_ochki_i_usy",
@@ -4359,11 +4892,11 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "38_ochki_i_usy",
-    "stickers_count": 51,
+    "stickers_count": 49,
     "source_file": "38_Очки_и_Усы.jpg",
-    "grid": "7x9",
+    "grid": "7x7",
     "stickers": [
       "38_ochki_i_usy_01.webp",
       "38_ochki_i_usy_02.webp",
@@ -4413,11 +4946,18 @@
       "38_ochki_i_usy_46.webp",
       "38_ochki_i_usy_47.webp",
       "38_ochki_i_usy_48.webp",
-      "38_ochki_i_usy_49.webp",
-      "38_ochki_i_usy_50.webp",
-      "38_ochki_i_usy_51.webp"
+      "38_ochki_i_usy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064002090,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "39_spa_i_byuti",
@@ -4429,7 +4969,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "39_spa_i_byuti",
     "stickers_count": 49,
     "source_file": "39_СПА_и_Бьюти.jpg",
@@ -4485,7 +5025,16 @@
       "39_spa_i_byuti_48.webp",
       "39_spa_i_byuti_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064022104,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "40_dvukhkolyosnye",
@@ -4497,7 +5046,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "40_dvukhkolyosnye",
     "stickers_count": 49,
     "source_file": "40_Двухколёсные.jpg",
@@ -4553,7 +5102,16 @@
       "40_dvukhkolyosnye_48.webp",
       "40_dvukhkolyosnye_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064031796,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "41_vodnyy_transport",
@@ -4565,11 +5123,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "41_vodnyy_transport",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "41_Водный_транспорт.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "41_vodnyy_transport_01.webp",
       "41_vodnyy_transport_02.webp",
@@ -4619,10 +5177,18 @@
       "41_vodnyy_transport_46.webp",
       "41_vodnyy_transport_47.webp",
       "41_vodnyy_transport_48.webp",
-      "41_vodnyy_transport_49.webp",
-      "41_vodnyy_transport_50.webp"
+      "41_vodnyy_transport_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057206345,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "42_uyutnyy_dom",
@@ -4634,7 +5200,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "42_uyutnyy_dom",
     "stickers_count": 49,
     "source_file": "42_Уютный_дом.jpg",
@@ -4690,7 +5256,15 @@
       "42_uyutnyy_dom_48.webp",
       "42_uyutnyy_dom_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "43_gorodskie_detali",
@@ -4702,7 +5276,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "43_gorodskie_detali",
     "stickers_count": 49,
     "source_file": "43_Городские_детали.jpg",
@@ -4758,7 +5332,16 @@
       "43_gorodskie_detali_48.webp",
       "43_gorodskie_detali_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064050937,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "44_griby",
@@ -4770,7 +5353,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "44_griby",
     "stickers_count": 49,
     "source_file": "44_Грибы.jpg",
@@ -4826,7 +5409,16 @@
       "44_griby_48.webp",
       "44_griby_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064055999,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "45_kristally_i_kamni",
@@ -4838,7 +5430,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "45_kristally_i_kamni",
     "stickers_count": 49,
     "source_file": "45_Кристаллы_и_Камни.jpg",
@@ -4894,7 +5486,15 @@
       "45_kristally_i_kamni_48.webp",
       "45_kristally_i_kamni_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "46_anatomiya",
@@ -4906,9 +5506,9 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "46_anatomiya",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "46_Анатомия.jpg",
     "grid": "7x7",
     "stickers": [
@@ -4959,9 +5559,19 @@
       "46_anatomiya_45.webp",
       "46_anatomiya_46.webp",
       "46_anatomiya_47.webp",
-      "46_anatomiya_48.webp"
+      "46_anatomiya_48.webp",
+      "46_anatomiya_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064077534,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "47_mikromir",
@@ -4973,7 +5583,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "47_mikromir",
     "stickers_count": 49,
     "source_file": "47_Микромир.jpg",
@@ -5029,7 +5639,16 @@
       "47_mikromir_48.webp",
       "47_mikromir_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064091514,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "48_gryzuny",
@@ -5041,7 +5660,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "48_gryzuny",
     "stickers_count": 49,
     "source_file": "48_Грызуны.jpg",
@@ -5097,7 +5716,16 @@
       "48_gryzuny_48.webp",
       "48_gryzuny_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064096107,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "49_ferma",
@@ -5109,7 +5737,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "49_ferma",
     "stickers_count": 49,
     "source_file": "49_Ферма.jpg",
@@ -5165,7 +5793,16 @@
       "49_ferma_48.webp",
       "49_ferma_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064101977,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "50_vyrezki_iz_gazet_kollazh",
@@ -5177,7 +5814,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "50_vyrezki_iz_gazet_kollazh",
     "stickers_count": 49,
     "source_file": "50_Вырезки_из_газет_Коллаж.jpg",
@@ -5233,7 +5870,16 @@
       "50_vyrezki_iz_gazet_kollazh_48.webp",
       "50_vyrezki_iz_gazet_kollazh_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064114219,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "51_dudly_karakuli",
@@ -5245,7 +5891,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "51_dudly_karakuli",
     "stickers_count": 49,
     "source_file": "51_Дудлы_Каракули.jpg",
@@ -5301,7 +5947,16 @@
       "51_dudly_karakuli_48.webp",
       "51_dudly_karakuli_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792064121423,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "52_origami",
@@ -5313,7 +5968,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "52_origami",
     "stickers_count": 49,
     "source_file": "52_Оригами.jpg",
@@ -5369,7 +6024,16 @@
       "52_origami_48.webp",
       "52_origami_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064132197,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "53_otdykh_i_uyut",
@@ -5381,7 +6045,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "53_otdykh_i_uyut",
     "stickers_count": 49,
     "source_file": "53_Отдых_и_Уют.jpg",
@@ -5437,7 +6101,16 @@
       "53_otdykh_i_uyut_48.webp",
       "53_otdykh_i_uyut_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064143380,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "54_podarki_i_gostepriimstvo",
@@ -5449,7 +6122,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "54_podarki_i_gostepriimstvo",
     "stickers_count": 49,
     "source_file": "54_Подарки_и_Гостеприимство.jpg",
@@ -5505,7 +6178,16 @@
       "54_podarki_i_gostepriimstvo_48.webp",
       "54_podarki_i_gostepriimstvo_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064151409,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "55_astronomiya_i_teleskopy",
@@ -5517,7 +6199,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "55_astronomiya_i_teleskopy",
     "stickers_count": 49,
     "source_file": "55_Астрономия_и_Телескопы.jpg",
@@ -5573,7 +6255,15 @@
       "55_astronomiya_i_teleskopy_48.webp",
       "55_astronomiya_i_teleskopy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "56_oblaka_i_nebo",
@@ -5585,7 +6275,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "56_oblaka_i_nebo",
     "stickers_count": 49,
     "source_file": "56_Облака_и_Небо.jpg",
@@ -5641,7 +6331,16 @@
       "56_oblaka_i_nebo_48.webp",
       "56_oblaka_i_nebo_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064169383,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "57_monstriki_igrushki",
@@ -5653,7 +6352,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "57_monstriki_igrushki",
     "stickers_count": 49,
     "source_file": "57_Монстрики_игрушки.jpg",
@@ -5709,7 +6408,16 @@
       "57_monstriki_igrushki_48.webp",
       "57_monstriki_igrushki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792064179018,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "58_skazochnye_loshadki",
@@ -5721,7 +6429,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "58_skazochnye_loshadki",
     "stickers_count": 49,
     "source_file": "58_Сказочные_лошадки.jpg",
@@ -5777,7 +6485,16 @@
       "58_skazochnye_loshadki_48.webp",
       "58_skazochnye_loshadki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792064187757,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "59_kosmicheskie_issledovateli",
@@ -5789,7 +6506,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "59_kosmicheskie_issledovateli",
     "stickers_count": 49,
     "source_file": "59_Космические_исследователи.jpg",
@@ -5845,7 +6562,16 @@
       "59_kosmicheskie_issledovateli_48.webp",
       "59_kosmicheskie_issledovateli_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064197146,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "60_sozvezdiya_i_zvyozdnoe_nebo",
@@ -5857,7 +6583,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "60_sozvezdiya_i_zvyozdnoe_nebo",
     "stickers_count": 49,
     "source_file": "60_Созвездия_и_Звёздное_небо.jpg",
@@ -5913,7 +6639,16 @@
       "60_sozvezdiya_i_zvyozdnoe_nebo_48.webp",
       "60_sozvezdiya_i_zvyozdnoe_nebo_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064205972,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "61_akvarium",
@@ -5925,7 +6660,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "61_akvarium",
     "stickers_count": 49,
     "source_file": "61_Аквариум.jpg",
@@ -5981,7 +6716,16 @@
       "61_akvarium_48.webp",
       "61_akvarium_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057260880,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "62_geologiya_i_mineraly",
@@ -5993,7 +6737,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "62_geologiya_i_mineraly",
     "stickers_count": 49,
     "source_file": "62_Геология_и_Минералы.jpg",
@@ -6049,7 +6793,16 @@
       "62_geologiya_i_mineraly_48.webp",
       "62_geologiya_i_mineraly_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064229610,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "63_alpaki_i_lamy",
@@ -6061,7 +6814,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "63_alpaki_i_lamy",
     "stickers_count": 49,
     "source_file": "63_Альпаки_и_Ламы.jpg",
@@ -6117,7 +6870,15 @@
       "63_alpaki_i_lamy_48.webp",
       "63_alpaki_i_lamy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "64_pochta_i_pisma",
@@ -6129,15 +6890,72 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "64_pochta_i_pisma",
-    "stickers_count": 1,
+    "stickers_count": 49,
     "source_file": "64_Почта_и_Письма.jpg",
-    "grid": "1x1",
+    "grid": "7x7",
     "stickers": [
-      "64_pochta_i_pisma_01.webp"
+      "64_pochta_i_pisma_01.webp",
+      "64_pochta_i_pisma_02.webp",
+      "64_pochta_i_pisma_03.webp",
+      "64_pochta_i_pisma_04.webp",
+      "64_pochta_i_pisma_05.webp",
+      "64_pochta_i_pisma_06.webp",
+      "64_pochta_i_pisma_07.webp",
+      "64_pochta_i_pisma_08.webp",
+      "64_pochta_i_pisma_09.webp",
+      "64_pochta_i_pisma_10.webp",
+      "64_pochta_i_pisma_11.webp",
+      "64_pochta_i_pisma_12.webp",
+      "64_pochta_i_pisma_13.webp",
+      "64_pochta_i_pisma_14.webp",
+      "64_pochta_i_pisma_15.webp",
+      "64_pochta_i_pisma_16.webp",
+      "64_pochta_i_pisma_17.webp",
+      "64_pochta_i_pisma_18.webp",
+      "64_pochta_i_pisma_19.webp",
+      "64_pochta_i_pisma_20.webp",
+      "64_pochta_i_pisma_21.webp",
+      "64_pochta_i_pisma_22.webp",
+      "64_pochta_i_pisma_23.webp",
+      "64_pochta_i_pisma_24.webp",
+      "64_pochta_i_pisma_25.webp",
+      "64_pochta_i_pisma_26.webp",
+      "64_pochta_i_pisma_27.webp",
+      "64_pochta_i_pisma_28.webp",
+      "64_pochta_i_pisma_29.webp",
+      "64_pochta_i_pisma_30.webp",
+      "64_pochta_i_pisma_31.webp",
+      "64_pochta_i_pisma_32.webp",
+      "64_pochta_i_pisma_33.webp",
+      "64_pochta_i_pisma_34.webp",
+      "64_pochta_i_pisma_35.webp",
+      "64_pochta_i_pisma_36.webp",
+      "64_pochta_i_pisma_37.webp",
+      "64_pochta_i_pisma_38.webp",
+      "64_pochta_i_pisma_39.webp",
+      "64_pochta_i_pisma_40.webp",
+      "64_pochta_i_pisma_41.webp",
+      "64_pochta_i_pisma_42.webp",
+      "64_pochta_i_pisma_43.webp",
+      "64_pochta_i_pisma_44.webp",
+      "64_pochta_i_pisma_45.webp",
+      "64_pochta_i_pisma_46.webp",
+      "64_pochta_i_pisma_47.webp",
+      "64_pochta_i_pisma_48.webp",
+      "64_pochta_i_pisma_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792057270187,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "65_klassicheskaya_arkhitektura",
@@ -6149,7 +6967,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "65_klassicheskaya_arkhitektura",
     "stickers_count": 49,
     "source_file": "65_Классическая_архитектура.jpg",
@@ -6205,7 +7023,16 @@
       "65_klassicheskaya_arkhitektura_48.webp",
       "65_klassicheskaya_arkhitektura_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064244916,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "66_aptechka_i_meditsina",
@@ -6217,7 +7044,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "66_aptechka_i_meditsina",
     "stickers_count": 49,
     "source_file": "66_Аптечка_и_Медицина.jpg",
@@ -6273,7 +7100,15 @@
       "66_aptechka_i_meditsina_48.webp",
       "66_aptechka_i_meditsina_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "67_arkhitektura_i_doma",
@@ -6285,7 +7120,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "67_arkhitektura_i_doma",
     "stickers_count": 49,
     "source_file": "67_Архитектура_и_Дома.jpg",
@@ -6341,7 +7176,15 @@
       "67_arkhitektura_i_doma_48.webp",
       "67_arkhitektura_i_doma_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "68_attraktsiony_i_luna_park",
@@ -6353,7 +7196,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "68_attraktsiony_i_luna_park",
     "stickers_count": 49,
     "source_file": "68_Аттракционы_и_Луна_парк.jpg",
@@ -6409,7 +7252,15 @@
       "68_attraktsiony_i_luna_park_48.webp",
       "68_attraktsiony_i_luna_park_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "69_babochki_i_motylki",
@@ -6421,11 +7272,11 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "69_babochki_i_motylki",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "69_Бабочки_и_Мотыльки.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "69_babochki_i_motylki_01.webp",
       "69_babochki_i_motylki_02.webp",
@@ -6475,10 +7326,18 @@
       "69_babochki_i_motylki_46.webp",
       "69_babochki_i_motylki_47.webp",
       "69_babochki_i_motylki_48.webp",
-      "69_babochki_i_motylki_49.webp",
-      "69_babochki_i_motylki_50.webp"
+      "69_babochki_i_motylki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792056724032,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "70_balet_i_tantsy",
@@ -6490,7 +7349,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "70_balet_i_tantsy",
     "stickers_count": 49,
     "source_file": "70_Балет_и_Танцы.jpg",
@@ -6546,7 +7405,16 @@
       "70_balet_i_tantsy_48.webp",
       "70_balet_i_tantsy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064269058,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "71_banki_i_butylochki",
@@ -6558,7 +7426,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "71_banki_i_butylochki",
     "stickers_count": 49,
     "source_file": "71_Банки_и_Бутылочки.jpg",
@@ -6614,7 +7482,15 @@
       "71_banki_i_butylochki_48.webp",
       "71_banki_i_butylochki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "72_barbekyu_i_gril",
@@ -6626,7 +7502,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "72_barbekyu_i_gril",
     "stickers_count": 49,
     "source_file": "72_Барбекю_и_Гриль.jpg",
@@ -6682,7 +7558,15 @@
       "72_barbekyu_i_gril_48.webp",
       "72_barbekyu_i_gril_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "73_belki_i_burunduki",
@@ -6694,7 +7578,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "73_belki_i_burunduki",
     "stickers_count": 49,
     "source_file": "73_Белки_и_Бурундуки.jpg",
@@ -6750,7 +7634,15 @@
       "73_belki_i_burunduki_48.webp",
       "73_belki_i_burunduki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "74_bilyard_i_bouling",
@@ -6762,7 +7654,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "74_bilyard_i_bouling",
     "stickers_count": 49,
     "source_file": "74_Бильярд_и_Боулинг.jpg",
@@ -6818,7 +7710,16 @@
       "74_bilyard_i_bouling_48.webp",
       "74_bilyard_i_bouling_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064293572,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "75_gimnastika_i_akrobatika",
@@ -6830,11 +7731,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "75_gimnastika_i_akrobatika",
-    "stickers_count": 55,
+    "stickers_count": 49,
     "source_file": "75_Гимнастика_и_Акробатика.jpg",
-    "grid": "7x9",
+    "grid": "7x7",
     "stickers": [
       "75_gimnastika_i_akrobatika_01.webp",
       "75_gimnastika_i_akrobatika_02.webp",
@@ -6884,15 +7785,18 @@
       "75_gimnastika_i_akrobatika_46.webp",
       "75_gimnastika_i_akrobatika_47.webp",
       "75_gimnastika_i_akrobatika_48.webp",
-      "75_gimnastika_i_akrobatika_49.webp",
-      "75_gimnastika_i_akrobatika_50.webp",
-      "75_gimnastika_i_akrobatika_51.webp",
-      "75_gimnastika_i_akrobatika_52.webp",
-      "75_gimnastika_i_akrobatika_53.webp",
-      "75_gimnastika_i_akrobatika_54.webp",
-      "75_gimnastika_i_akrobatika_55.webp"
+      "75_gimnastika_i_akrobatika_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064303060,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "76_botanika_gerbariy",
@@ -6904,7 +7808,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "76_botanika_gerbariy",
     "stickers_count": 49,
     "source_file": "76_Ботаника_Гербарий.jpg",
@@ -6960,7 +7864,16 @@
       "76_botanika_gerbariy_48.webp",
       "76_botanika_gerbariy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792054527875,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "77_budilniki_i_chasy",
@@ -6972,7 +7885,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "77_budilniki_i_chasy",
     "stickers_count": 49,
     "source_file": "77_Будильники_и_Часы.jpg",
@@ -7028,7 +7941,16 @@
       "77_budilniki_i_chasy_48.webp",
       "77_budilniki_i_chasy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792057279032,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "78_bulavki_i_skrepki",
@@ -7040,15 +7962,72 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "78_bulavki_i_skrepki",
-    "stickers_count": 1,
+    "stickers_count": 49,
     "source_file": "78_Булавки_и_Скрепки.jpg",
-    "grid": "1x1",
+    "grid": "7x7",
     "stickers": [
-      "78_bulavki_i_skrepki_01.webp"
+      "78_bulavki_i_skrepki_01.webp",
+      "78_bulavki_i_skrepki_02.webp",
+      "78_bulavki_i_skrepki_03.webp",
+      "78_bulavki_i_skrepki_04.webp",
+      "78_bulavki_i_skrepki_05.webp",
+      "78_bulavki_i_skrepki_06.webp",
+      "78_bulavki_i_skrepki_07.webp",
+      "78_bulavki_i_skrepki_08.webp",
+      "78_bulavki_i_skrepki_09.webp",
+      "78_bulavki_i_skrepki_10.webp",
+      "78_bulavki_i_skrepki_11.webp",
+      "78_bulavki_i_skrepki_12.webp",
+      "78_bulavki_i_skrepki_13.webp",
+      "78_bulavki_i_skrepki_14.webp",
+      "78_bulavki_i_skrepki_15.webp",
+      "78_bulavki_i_skrepki_16.webp",
+      "78_bulavki_i_skrepki_17.webp",
+      "78_bulavki_i_skrepki_18.webp",
+      "78_bulavki_i_skrepki_19.webp",
+      "78_bulavki_i_skrepki_20.webp",
+      "78_bulavki_i_skrepki_21.webp",
+      "78_bulavki_i_skrepki_22.webp",
+      "78_bulavki_i_skrepki_23.webp",
+      "78_bulavki_i_skrepki_24.webp",
+      "78_bulavki_i_skrepki_25.webp",
+      "78_bulavki_i_skrepki_26.webp",
+      "78_bulavki_i_skrepki_27.webp",
+      "78_bulavki_i_skrepki_28.webp",
+      "78_bulavki_i_skrepki_29.webp",
+      "78_bulavki_i_skrepki_30.webp",
+      "78_bulavki_i_skrepki_31.webp",
+      "78_bulavki_i_skrepki_32.webp",
+      "78_bulavki_i_skrepki_33.webp",
+      "78_bulavki_i_skrepki_34.webp",
+      "78_bulavki_i_skrepki_35.webp",
+      "78_bulavki_i_skrepki_36.webp",
+      "78_bulavki_i_skrepki_37.webp",
+      "78_bulavki_i_skrepki_38.webp",
+      "78_bulavki_i_skrepki_39.webp",
+      "78_bulavki_i_skrepki_40.webp",
+      "78_bulavki_i_skrepki_41.webp",
+      "78_bulavki_i_skrepki_42.webp",
+      "78_bulavki_i_skrepki_43.webp",
+      "78_bulavki_i_skrepki_44.webp",
+      "78_bulavki_i_skrepki_45.webp",
+      "78_bulavki_i_skrepki_46.webp",
+      "78_bulavki_i_skrepki_47.webp",
+      "78_bulavki_i_skrepki_48.webp",
+      "78_bulavki_i_skrepki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792057287811,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "79_viktorianskiy_stil_i_retro",
@@ -7060,7 +8039,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "79_viktorianskiy_stil_i_retro",
     "stickers_count": 49,
     "source_file": "79_Викторианский_стиль_и_Ретро.jpg",
@@ -7116,7 +8095,15 @@
       "79_viktorianskiy_stil_i_retro_48.webp",
       "79_viktorianskiy_stil_i_retro_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "80_vanna_i_dush",
@@ -7128,7 +8115,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "80_vanna_i_dush",
     "stickers_count": 49,
     "source_file": "80_Ванна_и_Душ.jpg",
@@ -7184,7 +8171,15 @@
       "80_vanna_i_dush_48.webp",
       "80_vanna_i_dush_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "81_loshadi_i_konnyy_sport",
@@ -7196,11 +8191,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "81_loshadi_i_konnyy_sport",
     "stickers_count": 49,
     "source_file": "81_Лошади_и_Конный_спорт.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "81_loshadi_i_konnyy_sport_01.webp",
       "81_loshadi_i_konnyy_sport_02.webp",
@@ -7252,7 +8247,16 @@
       "81_loshadi_i_konnyy_sport_48.webp",
       "81_loshadi_i_konnyy_sport_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057296525,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "82_skandinavskiy_uyut",
@@ -7264,11 +8268,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "82_skandinavskiy_uyut",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "82_Скандинавский_уют.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "82_skandinavskiy_uyut_01.webp",
       "82_skandinavskiy_uyut_02.webp",
@@ -7318,10 +8322,18 @@
       "82_skandinavskiy_uyut_46.webp",
       "82_skandinavskiy_uyut_47.webp",
       "82_skandinavskiy_uyut_48.webp",
-      "82_skandinavskiy_uyut_49.webp",
-      "82_skandinavskiy_uyut_50.webp"
+      "82_skandinavskiy_uyut_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064340970,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "83_mozaika_i_kaleydoskop",
@@ -7333,7 +8345,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "83_mozaika_i_kaleydoskop",
     "stickers_count": 49,
     "source_file": "83_Мозаика_и_Калейдоскоп.jpg",
@@ -7389,7 +8401,16 @@
       "83_mozaika_i_kaleydoskop_48.webp",
       "83_mozaika_i_kaleydoskop_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064349614,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "84_vodnyy_sport_i_serfing",
@@ -7401,11 +8422,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "84_vodnyy_sport_i_serfing",
-    "stickers_count": 52,
+    "stickers_count": 49,
     "source_file": "84_Водный_спорт_и_Серфинг.jpg",
-    "grid": "7x9",
+    "grid": "7x7",
     "stickers": [
       "84_vodnyy_sport_i_serfing_01.webp",
       "84_vodnyy_sport_i_serfing_02.webp",
@@ -7455,12 +8476,18 @@
       "84_vodnyy_sport_i_serfing_46.webp",
       "84_vodnyy_sport_i_serfing_47.webp",
       "84_vodnyy_sport_i_serfing_48.webp",
-      "84_vodnyy_sport_i_serfing_49.webp",
-      "84_vodnyy_sport_i_serfing_50.webp",
-      "84_vodnyy_sport_i_serfing_51.webp",
-      "84_vodnyy_sport_i_serfing_52.webp"
+      "84_vodnyy_sport_i_serfing_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064363964,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "85_vozdushnye_zmei_i_shary",
@@ -7472,7 +8499,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "85_vozdushnye_zmei_i_shary",
     "stickers_count": 49,
     "source_file": "85_Воздушные_змеи_и_Шары.jpg",
@@ -7528,7 +8555,15 @@
       "85_vozdushnye_zmei_i_shary_48.webp",
       "85_vozdushnye_zmei_i_shary_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "86_vydry_i_bobry",
@@ -7540,11 +8575,11 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "86_vydry_i_bobry",
-    "stickers_count": 51,
+    "stickers_count": 49,
     "source_file": "86_Выдры_и_Бобры.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "86_vydry_i_bobry_01.webp",
       "86_vydry_i_bobry_02.webp",
@@ -7594,11 +8629,18 @@
       "86_vydry_i_bobry_46.webp",
       "86_vydry_i_bobry_47.webp",
       "86_vydry_i_bobry_48.webp",
-      "86_vydry_i_bobry_49.webp",
-      "86_vydry_i_bobry_50.webp",
-      "86_vydry_i_bobry_51.webp"
+      "86_vydry_i_bobry_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792057323571,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "87_vyshivka_i_pechvork",
@@ -7610,7 +8652,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "87_vyshivka_i_pechvork",
     "stickers_count": 49,
     "source_file": "87_Вышивка_и_Пэчворк.jpg",
@@ -7666,7 +8708,15 @@
       "87_vyshivka_i_pechvork_48.webp",
       "87_vyshivka_i_pechvork_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "88_gavayi_tropiki",
@@ -7678,7 +8728,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "88_gavayi_tropiki",
     "stickers_count": 49,
     "source_file": "88_Гавайи_Тропики.jpg",
@@ -7734,7 +8784,15 @@
       "88_gavayi_tropiki_48.webp",
       "88_gavayi_tropiki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "89_garazh_i_instrumenty",
@@ -7746,7 +8804,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "89_garazh_i_instrumenty",
     "stickers_count": 49,
     "source_file": "89_Гараж_и_Инструменты.jpg",
@@ -7802,7 +8860,15 @@
       "89_garazh_i_instrumenty_48.webp",
       "89_garazh_i_instrumenty_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "90_geometriya_i_figury",
@@ -7814,7 +8880,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "90_geometriya_i_figury",
     "stickers_count": 49,
     "source_file": "90_Геометрия_и_Фигуры.jpg",
@@ -7870,7 +8936,16 @@
       "90_geometriya_i_figury_48.webp",
       "90_geometriya_i_figury_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064399050,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "91_girlyandy_i_fonariki",
@@ -7882,11 +8957,11 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "91_girlyandy_i_fonariki",
-    "stickers_count": 54,
+    "stickers_count": 49,
     "source_file": "91_Гирлянды_и_Фонарики.jpg",
-    "grid": "7x9",
+    "grid": "7x7",
     "stickers": [
       "91_girlyandy_i_fonariki_01.webp",
       "91_girlyandy_i_fonariki_02.webp",
@@ -7936,14 +9011,18 @@
       "91_girlyandy_i_fonariki_46.webp",
       "91_girlyandy_i_fonariki_47.webp",
       "91_girlyandy_i_fonariki_48.webp",
-      "91_girlyandy_i_fonariki_49.webp",
-      "91_girlyandy_i_fonariki_50.webp",
-      "91_girlyandy_i_fonariki_51.webp",
-      "91_girlyandy_i_fonariki_52.webp",
-      "91_girlyandy_i_fonariki_53.webp",
-      "91_girlyandy_i_fonariki_54.webp"
+      "91_girlyandy_i_fonariki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064407877,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "92_glitter_i_strazy",
@@ -7955,7 +9034,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "92_glitter_i_strazy",
     "stickers_count": 49,
     "source_file": "92_Глиттер_и_Стразы.jpg",
@@ -8011,7 +9090,15 @@
       "92_glitter_i_strazy_48.webp",
       "92_glitter_i_strazy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "93_golubi_i_vorobi",
@@ -8023,11 +9110,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "93_golubi_i_vorobi",
     "stickers_count": 49,
     "source_file": "93_Голуби_и_Воробьи.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "93_golubi_i_vorobi_01.webp",
       "93_golubi_i_vorobi_02.webp",
@@ -8079,7 +9166,16 @@
       "93_golubi_i_vorobi_48.webp",
       "93_golubi_i_vorobi_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064416879,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "94_goncharstvo_i_keramika",
@@ -8091,9 +9187,9 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "94_goncharstvo_i_keramika",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "94_Гончарство_и_Керамика.jpg",
     "grid": "7x7",
     "stickers": [
@@ -8144,9 +9240,19 @@
       "94_goncharstvo_i_keramika_45.webp",
       "94_goncharstvo_i_keramika_46.webp",
       "94_goncharstvo_i_keramika_47.webp",
-      "94_goncharstvo_i_keramika_48.webp"
+      "94_goncharstvo_i_keramika_48.webp",
+      "94_goncharstvo_i_keramika_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057359934,
+    "is_disabled": true,
+    "saved_release_date": "2026-10-29"
   },
   {
     "id": "95_graffiti_i_strit_art",
@@ -8158,9 +9264,9 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "95_graffiti_i_strit_art",
-    "stickers_count": 47,
+    "stickers_count": 49,
     "source_file": "95_Граффити_и_Стрит_арт.jpg",
     "grid": "7x7",
     "stickers": [
@@ -8210,9 +9316,20 @@
       "95_graffiti_i_strit_art_44.webp",
       "95_graffiti_i_strit_art_45.webp",
       "95_graffiti_i_strit_art_46.webp",
-      "95_graffiti_i_strit_art_47.webp"
+      "95_graffiti_i_strit_art_47.webp",
+      "95_graffiti_i_strit_art_48.webp",
+      "95_graffiti_i_strit_art_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064428868,
+    "is_disabled": true,
+    "saved_release_date": "2026-10-29"
   },
   {
     "id": "96_gusi_i_utki",
@@ -8224,11 +9341,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "96_gusi_i_utki",
     "stickers_count": 49,
     "source_file": "96_Гуси_и_Утки.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "96_gusi_i_utki_01.webp",
       "96_gusi_i_utki_02.webp",
@@ -8280,7 +9397,16 @@
       "96_gusi_i_utki_48.webp",
       "96_gusi_i_utki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064436554,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "97_dayving_i_batiskafy",
@@ -8292,7 +9418,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "97_dayving_i_batiskafy",
     "stickers_count": 49,
     "source_file": "97_Дайвинг_и_Батискафы.jpg",
@@ -8348,7 +9474,16 @@
       "97_dayving_i_batiskafy_48.webp",
       "97_dayving_i_batiskafy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064447209,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "98_badminton_i_tennis",
@@ -8360,7 +9495,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "98_badminton_i_tennis",
     "stickers_count": 49,
     "source_file": "98_Бадминтон_и_Теннис.jpg",
@@ -8416,7 +9551,15 @@
       "98_badminton_i_tennis_48.webp",
       "98_badminton_i_tennis_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "99_detektiv_i_lupa",
@@ -8428,11 +9571,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "99_detektiv_i_lupa",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "99_Детектив_и_Лупа.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "99_detektiv_i_lupa_01.webp",
       "99_detektiv_i_lupa_02.webp",
@@ -8482,10 +9625,18 @@
       "99_detektiv_i_lupa_46.webp",
       "99_detektiv_i_lupa_47.webp",
       "99_detektiv_i_lupa_48.webp",
-      "99_detektiv_i_lupa_49.webp",
-      "99_detektiv_i_lupa_50.webp"
+      "99_detektiv_i_lupa_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057389865,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "100_dzhinsy_i_denim",
@@ -8497,7 +9648,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "100_dzhinsy_i_denim",
     "stickers_count": 49,
     "source_file": "100_Джинсы_и_Деним.jpg",
@@ -8553,7 +9704,16 @@
       "100_dzhinsy_i_denim_48.webp",
       "100_dzhinsy_i_denim_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064468888,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "101_didzhey_i_muzykalnyy_pult",
@@ -8565,7 +9725,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "101_didzhey_i_muzykalnyy_pult",
     "stickers_count": 49,
     "source_file": "101_Диджей_и_Музыкальный_пульт.jpg",
@@ -8621,7 +9781,15 @@
       "101_didzhey_i_muzykalnyy_pult_48.webp",
       "101_didzhey_i_muzykalnyy_pult_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "102_starinnye_zamki_i_kreposti",
@@ -8633,7 +9801,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "102_starinnye_zamki_i_kreposti",
     "stickers_count": 49,
     "source_file": "102_Старинные_замки_и_Крепости.jpg",
@@ -8689,7 +9857,16 @@
       "102_starinnye_zamki_i_kreposti_48.webp",
       "102_starinnye_zamki_i_kreposti_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064484244,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "103_yashcheritsy_i_khameleony",
@@ -8701,9 +9878,9 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "103_yashcheritsy_i_khameleony",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "103_Ящерицы_и_Хамелеоны.jpg",
     "grid": "7x7",
     "stickers": [
@@ -8754,9 +9931,19 @@
       "103_yashcheritsy_i_khameleony_45.webp",
       "103_yashcheritsy_i_khameleony_46.webp",
       "103_yashcheritsy_i_khameleony_47.webp",
-      "103_yashcheritsy_i_khameleony_48.webp"
+      "103_yashcheritsy_i_khameleony_48.webp",
+      "103_yashcheritsy_i_khameleony_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792064492355,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "104_oazis_i_verblyudy",
@@ -8768,7 +9955,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "104_oazis_i_verblyudy",
     "stickers_count": 49,
     "source_file": "104_Оазис_и_Верблюды.jpg",
@@ -8824,7 +10011,16 @@
       "104_oazis_i_verblyudy_48.webp",
       "104_oazis_i_verblyudy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064494757,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "105_ezhi_i_dikobrazy",
@@ -8836,7 +10032,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "105_ezhi_i_dikobrazy",
     "stickers_count": 49,
     "source_file": "105_Ежи_и_Дикобразы.jpg",
@@ -8892,7 +10088,16 @@
       "105_ezhi_i_dikobrazy_48.webp",
       "105_ezhi_i_dikobrazy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064498485,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "106_zheleznaya_doroga_poezda",
@@ -8904,7 +10109,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "106_zheleznaya_doroga_poezda",
     "stickers_count": 49,
     "source_file": "106_Железная_дорога_Поезда.jpg",
@@ -8960,7 +10165,15 @@
       "106_zheleznaya_doroga_poezda_48.webp",
       "106_zheleznaya_doroga_poezda_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "107_zhemchug_i_rakushki",
@@ -8972,7 +10185,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "107_zhemchug_i_rakushki",
     "stickers_count": 49,
     "source_file": "107_Жемчуг_и_Ракушки.jpg",
@@ -9028,7 +10241,15 @@
       "107_zhemchug_i_rakushki_48.webp",
       "107_zhemchug_i_rakushki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "108_zhirafy_i_zebry",
@@ -9040,11 +10261,11 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "108_zhirafy_i_zebry",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "108_Жирафы_и_Зебры.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "108_zhirafy_i_zebry_01.webp",
       "108_zhirafy_i_zebry_02.webp",
@@ -9094,10 +10315,18 @@
       "108_zhirafy_i_zebry_46.webp",
       "108_zhirafy_i_zebry_47.webp",
       "108_zhirafy_i_zebry_48.webp",
-      "108_zhirafy_i_zebry_49.webp",
-      "108_zhirafy_i_zebry_50.webp"
+      "108_zhirafy_i_zebry_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792064518319,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "109_zavtrak",
@@ -9109,7 +10338,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "109_zavtrak",
     "stickers_count": 49,
     "source_file": "109_Завтрак.jpg",
@@ -9165,7 +10394,16 @@
       "109_zavtrak_48.webp",
       "109_zavtrak_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064522538,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "110_zamki_i_klyuchi",
@@ -9177,7 +10415,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "110_zamki_i_klyuchi",
     "stickers_count": 49,
     "source_file": "110_Замки_и_Ключи.jpg",
@@ -9233,7 +10471,16 @@
       "110_zamki_i_klyuchi_48.webp",
       "110_zamki_i_klyuchi_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064531666,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "111_zimniy_sport_lyzhi_i_konki",
@@ -9245,7 +10492,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "111_zimniy_sport_lyzhi_i_konki",
     "stickers_count": 49,
     "source_file": "111_Зимний_спорт_Лыжи_и_Коньки.jpg",
@@ -9301,7 +10548,15 @@
       "111_zimniy_sport_lyzhi_i_konki_48.webp",
       "111_zimniy_sport_lyzhi_i_konki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "112_roboty_i_mekhanizmy",
@@ -9313,7 +10568,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "112_roboty_i_mekhanizmy",
     "stickers_count": 49,
     "source_file": "112_Роботы_и_Механизмы.jpg",
@@ -9369,7 +10624,16 @@
       "112_roboty_i_mekhanizmy_48.webp",
       "112_roboty_i_mekhanizmy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057407860,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "113_zontiki_i_dozhdeviki",
@@ -9381,7 +10645,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "113_zontiki_i_dozhdeviki",
     "stickers_count": 49,
     "source_file": "113_Зонтики_и_Дождевики.jpg",
@@ -9437,7 +10701,16 @@
       "113_zontiki_i_dozhdeviki_48.webp",
       "113_zontiki_i_dozhdeviki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064549752,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "114_igrushki_iz_detstva",
@@ -9449,7 +10722,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "114_igrushki_iz_detstva",
     "stickers_count": 49,
     "source_file": "114_Игрушки_из_детства.jpg",
@@ -9505,7 +10778,15 @@
       "114_igrushki_iz_detstva_48.webp",
       "114_igrushki_iz_detstva_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "115_spetsii_i_pryanosti",
@@ -9517,7 +10798,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "115_spetsii_i_pryanosti",
     "stickers_count": 49,
     "source_file": "115_Специи_и_Пряности.jpg",
@@ -9573,7 +10854,16 @@
       "115_spetsii_i_pryanosti_48.webp",
       "115_spetsii_i_pryanosti_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064564568,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "116_iskusstvo_i_zhivopis",
@@ -9585,7 +10875,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "116_iskusstvo_i_zhivopis",
     "stickers_count": 49,
     "source_file": "116_Искусство_и_Живопись.jpg",
@@ -9641,7 +10931,15 @@
       "116_iskusstvo_i_zhivopis_48.webp",
       "116_iskusstvo_i_zhivopis_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "117_beg_i_zaryadka",
@@ -9653,11 +10951,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "117_beg_i_zaryadka",
-    "stickers_count": 53,
+    "stickers_count": 49,
     "source_file": "117_Бег_и_Зарядка.jpg",
-    "grid": "7x9",
+    "grid": "7x7",
     "stickers": [
       "117_beg_i_zaryadka_01.webp",
       "117_beg_i_zaryadka_02.webp",
@@ -9707,13 +11005,18 @@
       "117_beg_i_zaryadka_46.webp",
       "117_beg_i_zaryadka_47.webp",
       "117_beg_i_zaryadka_48.webp",
-      "117_beg_i_zaryadka_49.webp",
-      "117_beg_i_zaryadka_50.webp",
-      "117_beg_i_zaryadka_51.webp",
-      "117_beg_i_zaryadka_52.webp",
-      "117_beg_i_zaryadka_53.webp"
+      "117_beg_i_zaryadka_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064579988,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "118_kaktusy_i_sukkulenty",
@@ -9725,7 +11028,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "118_kaktusy_i_sukkulenty",
     "stickers_count": 49,
     "source_file": "118_Кактусы_и_Суккуленты.jpg",
@@ -9781,7 +11084,15 @@
       "118_kaktusy_i_sukkulenty_48.webp",
       "118_kaktusy_i_sukkulenty_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "119_kalligrafiya_i_perya",
@@ -9793,7 +11104,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "119_kalligrafiya_i_perya",
     "stickers_count": 49,
     "source_file": "119_Каллиграфия_и_Перья.jpg",
@@ -9849,7 +11160,15 @@
       "119_kalligrafiya_i_perya_48.webp",
       "119_kalligrafiya_i_perya_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "120_kassety_i_pleery",
@@ -9861,9 +11180,9 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "120_kassety_i_pleery",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "120_Кассеты_и_Плееры.jpg",
     "grid": "7x7",
     "stickers": [
@@ -9914,9 +11233,19 @@
       "120_kassety_i_pleery_45.webp",
       "120_kassety_i_pleery_46.webp",
       "120_kassety_i_pleery_47.webp",
-      "120_kassety_i_pleery_48.webp"
+      "120_kassety_i_pleery_48.webp",
+      "120_kassety_i_pleery_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064600453,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "121_kenguru_i_koaly",
@@ -9928,7 +11257,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "121_kenguru_i_koaly",
     "stickers_count": 49,
     "source_file": "121_Кенгуру_и_Коалы.jpg",
@@ -9984,7 +11313,15 @@
       "121_kenguru_i_koaly_48.webp",
       "121_kenguru_i_koaly_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "122_kiberpank_futurizm",
@@ -9996,7 +11333,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "122_kiberpank_futurizm",
     "stickers_count": 49,
     "source_file": "122_Киберпанк_Футуризм.jpg",
@@ -10052,7 +11389,16 @@
       "122_kiberpank_futurizm_48.webp",
       "122_kiberpank_futurizm_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064607744,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "123_farfor_i_chaepitie",
@@ -10064,7 +11410,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "123_farfor_i_chaepitie",
     "stickers_count": 49,
     "source_file": "123_Фарфор_и_Чаепитие.jpg",
@@ -10120,7 +11466,15 @@
       "123_farfor_i_chaepitie_48.webp",
       "123_farfor_i_chaepitie_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "124_kletki_i_skvorechniki",
@@ -10132,7 +11486,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "124_kletki_i_skvorechniki",
     "stickers_count": 49,
     "source_file": "124_Клетки_и_Скворечники.jpg",
@@ -10188,7 +11542,15 @@
       "124_kletki_i_skvorechniki_48.webp",
       "124_kletki_i_skvorechniki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "125_tsirk_i_zhonglyory",
@@ -10200,11 +11562,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "125_tsirk_i_zhonglyory",
     "stickers_count": 49,
     "source_file": "125_Цирк_и_Жонглёры.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "125_tsirk_i_zhonglyory_01.webp",
       "125_tsirk_i_zhonglyory_02.webp",
@@ -10256,7 +11618,16 @@
       "125_tsirk_i_zhonglyory_48.webp",
       "125_tsirk_i_zhonglyory_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057444105,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "126_kovry_i_gobeleny",
@@ -10268,7 +11639,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "126_kovry_i_gobeleny",
     "stickers_count": 49,
     "source_file": "126_Ковры_и_Гобелены.jpg",
@@ -10324,7 +11695,15 @@
       "126_kovry_i_gobeleny_48.webp",
       "126_kovry_i_gobeleny_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "127_kokteyli_i_limonady",
@@ -10336,7 +11715,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "127_kokteyli_i_limonady",
     "stickers_count": 49,
     "source_file": "127_Коктейли_и_Лимонады.jpg",
@@ -10392,7 +11771,15 @@
       "127_kokteyli_i_limonady_48.webp",
       "127_kokteyli_i_limonady_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "128_kolyosa_i_shesteryonki",
@@ -10404,7 +11791,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "128_kolyosa_i_shesteryonki",
     "stickers_count": 49,
     "source_file": "128_Колёса_и_Шестерёнки.jpg",
@@ -10460,7 +11847,16 @@
       "128_kolyosa_i_shesteryonki_48.webp",
       "128_kolyosa_i_shesteryonki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064633001,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "129_konstruktor_bloki",
@@ -10472,7 +11868,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "129_konstruktor_bloki",
     "stickers_count": 49,
     "source_file": "129_Конструктор_Блоки.jpg",
@@ -10528,7 +11924,15 @@
       "129_konstruktor_bloki_48.webp",
       "129_konstruktor_bloki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "130_korallovyy_rif",
@@ -10540,9 +11944,9 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "130_korallovyy_rif",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "130_Коралловый_риф.jpg",
     "grid": "7x7",
     "stickers": [
@@ -10593,9 +11997,19 @@
       "130_korallovyy_rif_45.webp",
       "130_korallovyy_rif_46.webp",
       "130_korallovyy_rif_47.webp",
-      "130_korallovyy_rif_48.webp"
+      "130_korallovyy_rif_48.webp",
+      "130_korallovyy_rif_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064650011,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "131_korobki_i_upakovka",
@@ -10607,7 +12021,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "131_korobki_i_upakovka",
     "stickers_count": 49,
     "source_file": "131_Коробки_и_Упаковка.jpg",
@@ -10663,7 +12077,15 @@
       "131_korobki_i_upakovka_48.webp",
       "131_korobki_i_upakovka_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "132_korolevstvo_i_korony",
@@ -10675,7 +12097,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "132_korolevstvo_i_korony",
     "stickers_count": 49,
     "source_file": "132_Королевство_и_Короны.jpg",
@@ -10731,7 +12153,15 @@
       "132_korolevstvo_i_korony_48.webp",
       "132_korolevstvo_i_korony_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "133_kosmetichka_i_makiyazh",
@@ -10743,7 +12173,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "133_kosmetichka_i_makiyazh",
     "stickers_count": 49,
     "source_file": "133_Косметичка_и_Макияж.jpg",
@@ -10799,7 +12229,16 @@
       "133_kosmetichka_i_makiyazh_48.webp",
       "133_kosmetichka_i_makiyazh_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064661066,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "134_kostry_i_pokhodnyy_ogon",
@@ -10811,11 +12250,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "134_kostry_i_pokhodnyy_ogon",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "134_Костры_и_Походный_огонь.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "134_kostry_i_pokhodnyy_ogon_01.webp",
       "134_kostry_i_pokhodnyy_ogon_02.webp",
@@ -10865,10 +12304,18 @@
       "134_kostry_i_pokhodnyy_ogon_46.webp",
       "134_kostry_i_pokhodnyy_ogon_47.webp",
       "134_kostry_i_pokhodnyy_ogon_48.webp",
-      "134_kostry_i_pokhodnyy_ogon_49.webp",
-      "134_kostry_i_pokhodnyy_ogon_50.webp"
+      "134_kostry_i_pokhodnyy_ogon_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057461816,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "135_kraby_i_lobstery",
@@ -10880,11 +12327,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "135_kraby_i_lobstery",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "135_Крабы_и_Лобстеры.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "135_kraby_i_lobstery_01.webp",
       "135_kraby_i_lobstery_02.webp",
@@ -10934,10 +12381,18 @@
       "135_kraby_i_lobstery_46.webp",
       "135_kraby_i_lobstery_47.webp",
       "135_kraby_i_lobstery_48.webp",
-      "135_kraby_i_lobstery_49.webp",
-      "135_kraby_i_lobstery_50.webp"
+      "135_kraby_i_lobstery_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057471763,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "136_kruzhevo_i_bantiki",
@@ -10949,7 +12404,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "136_kruzhevo_i_bantiki",
     "stickers_count": 49,
     "source_file": "136_Кружево_и_Бантики.jpg",
@@ -11005,7 +12460,16 @@
       "136_kruzhevo_i_bantiki_48.webp",
       "136_kruzhevo_i_bantiki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064670572,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "137_kubiki_rubika_i_golovolomki",
@@ -11017,7 +12481,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "137_kubiki_rubika_i_golovolomki",
     "stickers_count": 49,
     "source_file": "137_Кубики_Рубика_и_Головоломки.jpg",
@@ -11073,7 +12537,15 @@
       "137_kubiki_rubika_i_golovolomki_48.webp",
       "137_kubiki_rubika_i_golovolomki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "138_kukly_i_igrushechnyy_teatr",
@@ -11085,7 +12557,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "138_kukly_i_igrushechnyy_teatr",
     "stickers_count": 49,
     "source_file": "138_Куклы_и_Игрушечный_театр.jpg",
@@ -11141,7 +12613,16 @@
       "138_kukly_i_igrushechnyy_teatr_48.webp",
       "138_kukly_i_igrushechnyy_teatr_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057481746,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "139_laboratoriya_i_khimiya",
@@ -11153,7 +12634,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "139_laboratoriya_i_khimiya",
     "stickers_count": 49,
     "source_file": "139_Лаборатория_и_Химия.jpg",
@@ -11209,7 +12690,16 @@
       "139_laboratoriya_i_khimiya_48.webp",
       "139_laboratoriya_i_khimiya_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064708268,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "140_lapsha_i_sushi_aziatskaya_eda",
@@ -11221,7 +12711,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "140_lapsha_i_sushi_aziatskaya_eda",
     "stickers_count": 49,
     "source_file": "140_Лапша_и_Суши_Азиатская_еда.jpg",
@@ -11277,7 +12767,16 @@
       "140_lapsha_i_sushi_aziatskaya_eda_48.webp",
       "140_lapsha_i_sushi_aziatskaya_eda_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057491422,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "141_lebedi_i_flamingo",
@@ -11289,7 +12788,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "141_lebedi_i_flamingo",
     "stickers_count": 49,
     "source_file": "141_Лебеди_и_Фламинго.jpg",
@@ -11345,7 +12844,15 @@
       "141_lebedi_i_flamingo_48.webp",
       "141_lebedi_i_flamingo_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "142_lenivtsy",
@@ -11357,7 +12864,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "142_lenivtsy",
     "stickers_count": 49,
     "source_file": "142_Ленивцы.jpg",
@@ -11413,7 +12920,16 @@
       "142_lenivtsy_48.webp",
       "142_lenivtsy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792057500889,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "143_letuchie_myshi",
@@ -11425,11 +12941,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "143_letuchie_myshi",
-    "stickers_count": 51,
+    "stickers_count": 49,
     "source_file": "143_Летучие_мыши.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "143_letuchie_myshi_01.webp",
       "143_letuchie_myshi_02.webp",
@@ -11479,11 +12995,18 @@
       "143_letuchie_myshi_46.webp",
       "143_letuchie_myshi_47.webp",
       "143_letuchie_myshi_48.webp",
-      "143_letuchie_myshi_49.webp",
-      "143_letuchie_myshi_50.webp",
-      "143_letuchie_myshi_51.webp"
+      "143_letuchie_myshi_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064725821,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "144_lyagushki_i_zhaby",
@@ -11495,9 +13018,9 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "144_lyagushki_i_zhaby",
-    "stickers_count": 46,
+    "stickers_count": 49,
     "source_file": "144_Лягушки_и_Жабы.jpg",
     "grid": "7x7",
     "stickers": [
@@ -11546,9 +13069,21 @@
       "144_lyagushki_i_zhaby_43.webp",
       "144_lyagushki_i_zhaby_44.webp",
       "144_lyagushki_i_zhaby_45.webp",
-      "144_lyagushki_i_zhaby_46.webp"
+      "144_lyagushki_i_zhaby_46.webp",
+      "144_lyagushki_i_zhaby_47.webp",
+      "144_lyagushki_i_zhaby_48.webp",
+      "144_lyagushki_i_zhaby_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057518149,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "145_magnity_na_kholodilnik",
@@ -11560,7 +13095,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "145_magnity_na_kholodilnik",
     "stickers_count": 49,
     "source_file": "145_Магниты_на_холодильник.jpg",
@@ -11616,7 +13151,16 @@
       "145_magnity_na_kholodilnik_48.webp",
       "145_magnity_na_kholodilnik_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064736821,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "146_teatralnyy_rekvizit_i_veera",
@@ -11628,9 +13172,9 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "146_teatralnyy_rekvizit_i_veera",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "146_Театральный_реквизит_и_Веера.jpg",
     "grid": "7x7",
     "stickers": [
@@ -11681,9 +13225,19 @@
       "146_teatralnyy_rekvizit_i_veera_45.webp",
       "146_teatralnyy_rekvizit_i_veera_46.webp",
       "146_teatralnyy_rekvizit_i_veera_47.webp",
-      "146_teatralnyy_rekvizit_i_veera_48.webp"
+      "146_teatralnyy_rekvizit_i_veera_48.webp",
+      "146_teatralnyy_rekvizit_i_veera_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064746351,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "147_mayaki_i_bereg",
@@ -11695,7 +13249,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "147_mayaki_i_bereg",
     "stickers_count": 49,
     "source_file": "147_Маяки_и_Берег.jpg",
@@ -11751,7 +13305,16 @@
       "147_mayaki_i_bereg_48.webp",
       "147_mayaki_i_bereg_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057535459,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "148_meduzy_i_osminogi",
@@ -11763,7 +13326,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "148_meduzy_i_osminogi",
     "stickers_count": 49,
     "source_file": "148_Медузы_и_Осьминоги.jpg",
@@ -11819,7 +13382,16 @@
       "148_meduzy_i_osminogi_48.webp",
       "148_meduzy_i_osminogi_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064755463,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "149_meksika",
@@ -11831,7 +13403,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "149_meksika",
     "stickers_count": 49,
     "source_file": "149_Мексика.jpg",
@@ -11887,7 +13459,16 @@
       "149_meksika_48.webp",
       "149_meksika_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064762546,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "150_melnitsy_i_polya",
@@ -11899,7 +13480,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "150_melnitsy_i_polya",
     "stickers_count": 49,
     "source_file": "150_Мельницы_и_Поля.jpg",
@@ -11955,7 +13536,15 @@
       "150_melnitsy_i_polya_48.webp",
       "150_melnitsy_i_polya_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "151_metall_i_shesteryonki",
@@ -11967,7 +13556,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "151_metall_i_shesteryonki",
     "stickers_count": 49,
     "source_file": "151_Металл_и_Шестерёнки.jpg",
@@ -12023,7 +13612,15 @@
       "151_metall_i_shesteryonki_48.webp",
       "151_metall_i_shesteryonki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "152_morozhenoe_i_sorbety",
@@ -12035,7 +13632,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "152_morozhenoe_i_sorbety",
     "stickers_count": 49,
     "source_file": "152_Мороженое_и_Сорбеты.jpg",
@@ -12091,7 +13688,15 @@
       "152_morozhenoe_i_sorbety_48.webp",
       "152_morozhenoe_i_sorbety_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "153_mosty_i_tonneli",
@@ -12103,7 +13708,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "153_mosty_i_tonneli",
     "stickers_count": 49,
     "source_file": "153_Мосты_и_Тоннели.jpg",
@@ -12159,7 +13764,16 @@
       "153_mosty_i_tonneli_48.webp",
       "153_mosty_i_tonneli_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064783869,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "154_mototsikly_i_skutery",
@@ -12171,11 +13785,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "154_mototsikly_i_skutery",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "154_Мотоциклы_и_Скутеры.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "154_mototsikly_i_skutery_01.webp",
       "154_mototsikly_i_skutery_02.webp",
@@ -12225,10 +13839,18 @@
       "154_mototsikly_i_skutery_46.webp",
       "154_mototsikly_i_skutery_47.webp",
       "154_mototsikly_i_skutery_48.webp",
-      "154_mototsikly_i_skutery_49.webp",
-      "154_mototsikly_i_skutery_50.webp"
+      "154_mototsikly_i_skutery_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057563344,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "155_muzykalnye_instrumenty",
@@ -12240,7 +13862,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "155_muzykalnye_instrumenty",
     "stickers_count": 49,
     "source_file": "155_Музыкальные_инструменты.jpg",
@@ -12296,7 +13918,15 @@
       "155_muzykalnye_instrumenty_48.webp",
       "155_muzykalnye_instrumenty_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "156_mylnye_puzyri",
@@ -12308,7 +13938,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "156_mylnye_puzyri",
     "stickers_count": 49,
     "source_file": "156_Мыльные_пузыри.jpg",
@@ -12364,7 +13994,16 @@
       "156_mylnye_puzyri_48.webp",
       "156_mylnye_puzyri_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "cover_version": 1792064800459,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "157_myagkie_igrushki",
@@ -12376,7 +14015,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "157_myagkie_igrushki",
     "stickers_count": 49,
     "source_file": "157_Мягкие_игрушки.jpg",
@@ -12432,7 +14071,15 @@
       "157_myagkie_igrushki_48.webp",
       "157_myagkie_igrushki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "158",
@@ -12444,11 +14091,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "158",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "158_Награды_Кубки_и_Медали.jpg",
-    "grid": "5x5",
+    "grid": "7x7",
     "stickers": [
       "158_01.webp",
       "158_02.webp",
@@ -12497,9 +14144,19 @@
       "158_45.webp",
       "158_46.webp",
       "158_47.webp",
-      "158_48.webp"
+      "158_48.webp",
+      "158_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792057572136,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "159_naryadnye_platya_i_kostyumy",
@@ -12511,7 +14168,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "159_naryadnye_platya_i_kostyumy",
     "stickers_count": 49,
     "source_file": "159_Нарядные_платья_и_Костюмы.jpg",
@@ -12567,7 +14224,16 @@
       "159_naryadnye_platya_i_kostyumy_48.webp",
       "159_naryadnye_platya_i_kostyumy_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064867889,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "160_nastolnye_lampy_i_svetilniki",
@@ -12579,7 +14245,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "160_nastolnye_lampy_i_svetilniki",
     "stickers_count": 49,
     "source_file": "160_Настольные_лампы_и_Светильники.jpg",
@@ -12635,7 +14301,16 @@
       "160_nastolnye_lampy_i_svetilniki_48.webp",
       "160_nastolnye_lampy_i_svetilniki_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792064872064,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "161_nauka_i_fizika",
@@ -12647,11 +14322,11 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "161_nauka_i_fizika",
-    "stickers_count": 48,
+    "stickers_count": 49,
     "source_file": "161_Наука_и_Физика.jpg",
-    "grid": "7x8",
+    "grid": "7x7",
     "stickers": [
       "161_nauka_i_fizika_01.webp",
       "161_nauka_i_fizika_02.webp",
@@ -12700,9 +14375,19 @@
       "161_nauka_i_fizika_45.webp",
       "161_nauka_i_fizika_46.webp",
       "161_nauka_i_fizika_47.webp",
-      "161_nauka_i_fizika_48.webp"
+      "161_nauka_i_fizika_48.webp",
+      "161_nauka_i_fizika_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "cover_version": 1792064878035,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "162_tsvetushchaya_sakura_i_yaponskiy_sad",
@@ -12770,7 +14455,14 @@
       "162_tsvetushchaya_sakura_i_yaponskiy_sad_48.webp",
       "162_tsvetushchaya_sakura_i_yaponskiy_sad_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "STANDARD",
+    "category_emoji": "✨",
+    "category_ru": "Сюжеты и Сезоны",
+    "category_uk": "Сюжети і Сезони",
+    "category_en": "Stories & Seasons",
+    "category_order": 20,
+    "is_disabled": false
   },
   {
     "id": "163_akuly",
@@ -12784,7 +14476,7 @@
     "price_formatted": "169 ₽",
     "release_date": "2026-01-01",
     "asset_category_key": "163_akuly",
-    "stickers_count": 50,
+    "stickers_count": 49,
     "source_file": "163_Акулы.jpg",
     "grid": "7x7",
     "stickers": [
@@ -12836,10 +14528,17 @@
       "163_akuly_46.webp",
       "163_akuly_47.webp",
       "163_akuly_48.webp",
-      "163_akuly_49.webp",
-      "163_akuly_50.webp"
+      "163_akuly_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792057589442,
+    "is_disabled": false
   },
   {
     "id": "164_shtampy_i_pechati",
@@ -12851,7 +14550,7 @@
     "tier": "BUDGET",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "164_shtampy_i_pechati",
     "stickers_count": 49,
     "source_file": "164_Штампы_и_Печати.jpg",
@@ -12907,7 +14606,15 @@
       "164_shtampy_i_pechati_48.webp",
       "164_shtampy_i_pechati_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "BUDGET",
+    "category_emoji": "🎨",
+    "category_ru": "Декор и Уют",
+    "category_uk": "Декор і Затишок",
+    "category_en": "Cozy & Decor",
+    "category_order": 30,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "165_frantsuzskie_buldogi",
@@ -12919,7 +14626,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "165_frantsuzskie_buldogi",
     "stickers_count": 49,
     "source_file": "165_Французские_бульдоги.jpg",
@@ -12975,7 +14682,15 @@
       "165_frantsuzskie_buldogi_48.webp",
       "165_frantsuzskie_buldogi_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "166_chikhuakhua",
@@ -12987,7 +14702,7 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "166_chikhuakhua",
     "stickers_count": 49,
     "source_file": "166_Чихуахуа.jpg",
@@ -13043,7 +14758,16 @@
       "166_chikhuakhua_48.webp",
       "166_chikhuakhua_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792064890161,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "167",
@@ -13055,11 +14779,11 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "167",
     "stickers_count": 49,
     "source_file": "167_Еноты.jpg",
-    "grid": "5x5",
+    "grid": "7x7",
     "stickers": [
       "167_01.webp",
       "167_02.webp",
@@ -13111,7 +14835,16 @@
       "167_48.webp",
       "167_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792064894221,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   },
   {
     "id": "168",
@@ -13123,11 +14856,11 @@
     "tier": "ELITE",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-01-01",
+    "release_date": "2099-12-31",
     "asset_category_key": "168",
     "stickers_count": 49,
     "source_file": "168_Лисички.jpg",
-    "grid": "5x5",
+    "grid": "7x7",
     "stickers": [
       "168_01.webp",
       "168_02.webp",
@@ -13179,6 +14912,15 @@
       "168_48.webp",
       "168_49.webp"
     ],
-    "preview": "preview.webp"
+    "preview": "preview.webp",
+    "category_id": "ELITE",
+    "category_emoji": "🐾",
+    "category_ru": "Питомцы и Зверята",
+    "category_uk": "Улюбленці",
+    "category_en": "Pets & Animals",
+    "category_order": 10,
+    "cover_version": 1792064901669,
+    "is_disabled": true,
+    "saved_release_date": "2026-01-01"
   }
 ]

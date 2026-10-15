@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ELITE",
+    "emoji": "🐾",
+    "title_ru": "Питомцы и Зверята",
+    "title_uk": "Улюбленці",
+    "title_en": "Pets & Animals",
+    "order": 10
+  },
+  {
+    "id": "STANDARD",
+    "emoji": "✨",
+    "title_ru": "Сюжеты и Сезоны",
+    "title_uk": "Сюжети і Сезони",
+    "title_en": "Stories & Seasons",
+    "order": 20
+  },
+  {
+    "id": "BUDGET",
+    "emoji": "🎨",
+    "title_ru": "Декор и Уют",
+    "title_uk": "Декор і Затишок",
+    "title_en": "Cozy & Decor",
+    "order": 30
+  }
+]
