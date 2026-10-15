@@ -96,7 +96,7 @@
       "car_parts_81.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-10-15",
     "title_uk": "Авто",
     "category_id": "ELITE",
     "category_emoji": "🐾",
@@ -105,7 +105,7 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "cover_version": 1792057668979,
-    "is_disabled": true,
+    "is_disabled": false,
     "saved_release_date": "2026-10-15"
   },
   {
@@ -173,7 +173,7 @@
       "hardware_electronics_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-10-15",
     "title_uk": "Гаджети",
     "category_id": "STANDARD",
     "category_emoji": "✨",
@@ -181,8 +181,8 @@
     "category_uk": "Сюжети і Сезони",
     "category_en": "Stories & Seasons",
     "category_order": 20,
-    "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "is_disabled": false,
+    "saved_release_date": "2026-10-15"
   },
   {
     "id": "dachshund",
@@ -640,7 +640,7 @@
       "insects_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-10-15",
     "title_uk": "Комахи",
     "category_id": "BUDGET",
     "category_emoji": "🎨",
@@ -648,8 +648,8 @@
     "category_uk": "Декор і Затишок",
     "category_en": "Cozy & Decor",
     "category_order": 30,
-    "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "is_disabled": false,
+    "saved_release_date": "2026-10-15"
   },
   {
     "id": "jungle",
@@ -1024,7 +1024,7 @@
       "night_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-10-15",
     "title_uk": "Ніч",
     "cover_version": 1792063338940,
     "category_id": "STANDARD",
@@ -1033,8 +1033,8 @@
     "category_uk": "Сюжети і Сезони",
     "category_en": "Stories & Seasons",
     "category_order": 20,
-    "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "is_disabled": false,
+    "saved_release_date": "2026-10-15"
   },
   {
     "id": "owl",
