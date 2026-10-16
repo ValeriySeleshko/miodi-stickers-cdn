@@ -1,0 +1,62 @@
+[
+  {
+    "code": "MIODI_VIP",
+    "type": "PRO_FOREVER",
+    "free_tickets": 2,
+    "pro_days": 0,
+    "discount_percent": 0,
+    "gift_pack_id": null,
+    "max_uses": 0,
+    "expires_at": null,
+    "note": "Команда Miodi и ключевые тестировщики",
+    "is_active": true
+  },
+  {
+    "code": "VIP_BLOGGER",
+    "type": "VIP_BLOGGER",
+    "free_tickets": 10,
+    "pro_days": 0,
+    "discount_percent": 0,
+    "gift_pack_id": null,
+    "max_uses": 1,
+    "expires_at": "2026-12-31",
+    "note": "Для блогеров: PRO Навсегда + 10 билетов на любые паки",
+    "is_active": true
+  },
+  {
+    "code": "GIFT30",
+    "type": "SUBSCRIBERS_PRO",
+    "free_tickets": 0,
+    "pro_days": 30,
+    "discount_percent": 0,
+    "gift_pack_id": "manycats",
+    "max_uses": 100,
+    "expires_at": "2026-12-31",
+    "note": "Промо для подписчиков: 30 дней PRO бесплатно + пак Котики",
+    "is_active": true
+  },
+  {
+    "code": "TICKETS5",
+    "type": "GIFT_STICKERS",
+    "free_tickets": 5,
+    "pro_days": 0,
+    "discount_percent": 0,
+    "gift_pack_id": null,
+    "max_uses": 0,
+    "expires_at": null,
+    "note": "Подарочные стикеры: 5 Золотых Билетов",
+    "is_active": true
+  },
+  {
+    "code": "SALE15",
+    "type": "DISCOUNT_15",
+    "free_tickets": 0,
+    "pro_days": 0,
+    "discount_percent": 15,
+    "gift_pack_id": null,
+    "max_uses": 0,
+    "expires_at": "2026-12-31",
+    "note": "Скидочный код: скидка 15% на оформление PRO",
+    "is_active": true
+  }
+]
