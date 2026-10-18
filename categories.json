@@ -22,5 +22,13 @@
     "title_uk": "Декор і Затишок",
     "title_en": "Cozy & Decor",
     "order": 30
+  },
+  {
+    "id": "CAT_MISCELLANEOUS_156",
+    "emoji": "✨",
+    "title_ru": "Miscellaneous",
+    "title_uk": "Miscellaneous",
+    "title_en": "Miscellaneous",
+    "order": 40
   }
 ]
