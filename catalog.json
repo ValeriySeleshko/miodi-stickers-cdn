@@ -249,7 +249,7 @@
       "dachshund_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-10-18",
     "title_uk": "Такси",
     "cover_version": 1792052638130,
     "category_id": "ELITE",
@@ -258,8 +258,8 @@
     "category_uk": "Улюбленці",
     "category_en": "Pets & Animals",
     "category_order": 10,
-    "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "is_disabled": false,
+    "saved_release_date": "2026-10-18"
   },
   {
     "id": "desert",
@@ -326,7 +326,7 @@
       "desert_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-10-19",
     "title_uk": "Пустеля",
     "category_id": "STANDARD",
     "category_emoji": "✨",
@@ -334,8 +334,8 @@
     "category_uk": "Сюжети і Сезони",
     "category_en": "Stories & Seasons",
     "category_order": 20,
-    "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "is_disabled": false,
+    "saved_release_date": "2026-10-19"
   },
   {
     "id": "dogs",
