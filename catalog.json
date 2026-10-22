@@ -106,7 +106,9 @@
     "category_order": 40,
     "cover_version": 1792057668979,
     "is_disabled": false,
-    "saved_release_date": "2026-10-15"
+    "saved_release_date": "2026-10-15",
+    "title_lt": "Automobiliai ir Tiuningas",
+    "category_lt": "Įvairūs"
   },
   {
     "id": "hardware_electronics",
@@ -182,7 +184,9 @@
     "category_en": "Miscellaneous",
     "category_order": 40,
     "is_disabled": false,
-    "saved_release_date": "2026-10-15"
+    "saved_release_date": "2026-10-15",
+    "title_lt": "Programėlės ir Įtaisai",
+    "category_lt": "Įvairūs"
   },
   {
     "id": "dachshund",
@@ -259,7 +263,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": false,
-    "saved_release_date": "2026-10-18"
+    "saved_release_date": "2026-10-18",
+    "title_lt": "Taksai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "desert",
@@ -335,7 +341,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": false,
-    "saved_release_date": "2026-10-19"
+    "saved_release_date": "2026-10-19",
+    "title_lt": "Dykuma",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "dogs",
@@ -419,7 +427,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Šunys",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "forest",
@@ -496,7 +506,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Miškas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "golden_retriever",
@@ -573,7 +585,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Retriveriai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "insects",
@@ -649,7 +663,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": false,
-    "saved_release_date": "2026-10-15"
+    "saved_release_date": "2026-10-15",
+    "title_lt": "Vabzdžiai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "jungle",
@@ -726,7 +742,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Džiunglės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "kitchen",
@@ -803,7 +821,9 @@
     "category_en": "Miscellaneous",
     "category_order": 40,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Virtuvė",
+    "category_lt": "Įvairūs"
   },
   {
     "id": "love",
@@ -880,7 +900,9 @@
     "category_order": 20,
     "cover_version": 1792056893771,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Meilė",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "manycats",
@@ -957,7 +979,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Katytės",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "night",
@@ -1034,7 +1058,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": false,
-    "saved_release_date": "2026-10-15"
+    "saved_release_date": "2026-10-15",
+    "title_lt": "Naktis",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "owl",
@@ -1111,7 +1137,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Pelėdos",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "pug_puppy",
@@ -1188,7 +1216,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Mopsai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "rabbit",
@@ -1265,7 +1295,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Triušiukai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "sad_mood",
@@ -1341,7 +1373,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Liūdesys",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "socks",
@@ -1417,7 +1451,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kojinės",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "space",
@@ -1494,7 +1530,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kosmosas",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "splashes",
@@ -1571,7 +1609,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Tėkštelėjimai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "stationery",
@@ -1655,7 +1695,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kanceliarija",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "summer",
@@ -1732,7 +1774,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Vasara",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "superhero",
@@ -1809,7 +1853,9 @@
     "category_order": 20,
     "cover_version": 1792063395217,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Herojai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "underpants",
@@ -1886,7 +1932,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Šortukai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "wildcat",
@@ -1963,7 +2011,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Laukinės katės",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "winter",
@@ -2040,7 +2090,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Žiema",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "01_vesna",
@@ -2117,7 +2169,9 @@
     "category_order": 20,
     "cover_version": 1792056943872,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Pavasaris",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "02_utro_rassvet",
@@ -2193,7 +2247,9 @@
     "category_order": 20,
     "cover_version": 1792063430135,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Rytas ir Aušra",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "03_radost_schaste",
@@ -2270,7 +2326,9 @@
     "category_order": 30,
     "cover_version": 1792063437932,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Džiaugsmas ir Laimė",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "04_zlost_sarkazm",
@@ -2347,7 +2405,9 @@
     "category_order": 30,
     "cover_version": 1792063451404,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Pyktis ir Sarkazmas",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "05_dzen_spokoystvie",
@@ -2424,7 +2484,9 @@
     "category_order": 20,
     "cover_version": 1792063459691,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Dzen ir Ramybė",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "06_korgi",
@@ -2501,7 +2563,9 @@
     "category_order": 10,
     "cover_version": 1792063464308,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Korgiai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "07_frantsuzskie_buldogi_i_chikhuakhua",
@@ -2577,7 +2641,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Prancūzų buldogai ir Čihuahua",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "08_kapibary",
@@ -2654,7 +2720,9 @@
     "category_order": 10,
     "cover_version": 1792063474738,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kapibaros",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "09_enoty_i_lisichki",
@@ -2731,7 +2799,9 @@
     "category_order": 10,
     "cover_version": 1792063494464,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Meškėnai ir Laputės",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "10_pandy_medvedi",
@@ -2807,7 +2877,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Pandos ir Meškučiai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "11_ptitsy_pernatye",
@@ -2883,7 +2955,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Paukščiai ir Sparnuočiai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "12_dinozavry",
@@ -2960,7 +3034,9 @@
     "category_order": 20,
     "cover_version": 1792063520733,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Dinozaurai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "13_kofe_i_chay",
@@ -3036,7 +3112,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kava ir Arbata",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "14_frukty_i_yagody",
@@ -3113,7 +3191,9 @@
     "category_order": 30,
     "cover_version": 1792063538621,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Vaisiai ir Uogos",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "15_fastfud",
@@ -3190,7 +3270,9 @@
     "category_order": 20,
     "cover_version": 1792063543722,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Greitas maistas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "16_vypechka",
@@ -3266,7 +3348,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kepiniai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "17_skotch_i_plastyri",
@@ -3343,7 +3427,9 @@
     "category_order": 10,
     "cover_version": 1792063556654,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Lipni juosta ir Pleistrai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "18_neon",
@@ -3420,7 +3506,9 @@
     "category_order": 30,
     "cover_version": 1792063562990,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Neonas",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "19_akvarel_mazki_kistyu",
@@ -3497,7 +3585,9 @@
     "category_order": 30,
     "cover_version": 1792063573989,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Akvarelė ir Teptuko potėpiai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "20_komiksy",
@@ -3574,7 +3664,9 @@
     "category_order": 30,
     "cover_version": 1792063582472,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Komiksai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "21_plyonka_i_retro",
@@ -3651,7 +3743,9 @@
     "category_order": 20,
     "cover_version": 1792063627194,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Juostelė ir Retro",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "22_gory_i_pokhod",
@@ -3727,7 +3821,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kalnai ir Žygis",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "23_pogoda",
@@ -3804,7 +3900,9 @@
     "category_order": 30,
     "cover_version": 1792063846233,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Orai ir Vaivorykštė",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "24_sad_i_ogorod",
@@ -3881,7 +3979,9 @@
     "category_order": 20,
     "cover_version": 1792063856184,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Sodas ir Daržas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "25_pizhamnaya_vecherinka",
@@ -3958,7 +4058,9 @@
     "category_order": 20,
     "cover_version": 1792063869253,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Pižamų vakarėlis",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "26_uborka_byt",
@@ -4035,7 +4137,9 @@
     "category_order": 30,
     "cover_version": 1792063885096,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Tvarkymasis ir Buitis",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "27_muzyka",
@@ -4112,7 +4216,9 @@
     "category_order": 30,
     "cover_version": 1792063894915,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Muzika",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "28_puteshestviya",
@@ -4189,7 +4295,9 @@
     "category_order": 20,
     "cover_version": 1792063905018,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kelionės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "29_monstriki",
@@ -4266,7 +4374,9 @@
     "category_order": 10,
     "cover_version": 1792063911929,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Monstriukai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "30_prisheltsy_nlo",
@@ -4342,7 +4452,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Ateiviai ir NSO",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "31_geyming",
@@ -4419,7 +4531,9 @@
     "category_order": 20,
     "cover_version": 1792063941970,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Žaidimai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "32_nastolki",
@@ -4495,7 +4609,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Stalo žaidimai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "33_rukodelie_i_khobbi",
@@ -4572,7 +4688,9 @@
     "category_order": 20,
     "cover_version": 1792063956556,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Rankdarbiai ir Pomėgiai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "34_knigi_i_chtenie",
@@ -4649,7 +4767,9 @@
     "category_order": 20,
     "cover_version": 1792063966092,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Knygos ir Skaitymas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "35_kino_i_teatr",
@@ -4726,7 +4846,9 @@
     "category_order": 20,
     "cover_version": 1792063971960,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kinas ir Teatras",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "36_shapki_i_shlyapy",
@@ -4803,7 +4925,9 @@
     "category_order": 30,
     "cover_version": 1792063977626,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kepurės ir Skrybėlės",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "37_obuv",
@@ -4880,7 +5004,9 @@
     "category_order": 30,
     "cover_version": 1792063989754,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Batai ir Sportbačiai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "38_ochki_i_usy",
@@ -4957,7 +5083,9 @@
     "category_order": 30,
     "cover_version": 1792064002090,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Akiniai ir Ūsai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "39_spa_i_byuti",
@@ -5034,7 +5162,9 @@
     "category_order": 20,
     "cover_version": 1792064022104,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "SPA ir Grožis",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "40_dvukhkolyosnye",
@@ -5111,7 +5241,9 @@
     "category_order": 20,
     "cover_version": 1792064031796,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Dviračiai ir Paspirtukai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "41_vodnyy_transport",
@@ -5188,7 +5320,9 @@
     "category_order": 20,
     "cover_version": 1792057206345,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Vandens transportas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "42_uyutnyy_dom",
@@ -5264,7 +5398,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Jaukūs namai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "43_gorodskie_detali",
@@ -5341,7 +5477,9 @@
     "category_order": 20,
     "cover_version": 1792064050937,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Miesto detalės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "44_griby",
@@ -5418,7 +5556,9 @@
     "category_order": 20,
     "cover_version": 1792064055999,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Grybai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "45_kristally_i_kamni",
@@ -5494,7 +5634,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kristalai ir Akmenys",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "46_anatomiya",
@@ -5571,7 +5713,9 @@
     "category_order": 20,
     "cover_version": 1792064077534,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Anatomija",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "47_mikromir",
@@ -5648,7 +5792,9 @@
     "category_order": 20,
     "cover_version": 1792064091514,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Mikropasaulis",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "48_gryzuny",
@@ -5725,7 +5871,9 @@
     "category_order": 20,
     "cover_version": 1792064096107,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Graužikai ir Žiurkėnai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "49_ferma",
@@ -5802,7 +5950,9 @@
     "category_order": 20,
     "cover_version": 1792064101977,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Ferma",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "50_vyrezki_iz_gazet_kollazh",
@@ -5879,7 +6029,9 @@
     "category_order": 30,
     "cover_version": 1792064114219,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Laikraščių iškarpos ir Koliažas",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "51_dudly_karakuli",
@@ -5956,7 +6108,9 @@
     "category_order": 10,
     "cover_version": 1792064121423,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Dudlai ir Kebervokštai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "52_origami",
@@ -6033,7 +6187,9 @@
     "category_order": 30,
     "cover_version": 1792064132197,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Origamis",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "53_otdykh_i_uyut",
@@ -6110,7 +6266,9 @@
     "category_order": 20,
     "cover_version": 1792064143380,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Poilsis ir Jaukumas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "54_podarki_i_gostepriimstvo",
@@ -6187,7 +6345,9 @@
     "category_order": 20,
     "cover_version": 1792064151409,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Dovanos ir Šventės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "55_astronomiya_i_teleskopy",
@@ -6263,7 +6423,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Astronomija ir Teleskopai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "56_oblaka_i_nebo",
@@ -6340,7 +6502,9 @@
     "category_order": 30,
     "cover_version": 1792064169383,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Debesys ir Dangus",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "57_monstriki_igrushki",
@@ -6417,7 +6581,9 @@
     "category_order": 10,
     "cover_version": 1792064179018,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Žaisliniai monstriukai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "58_skazochnye_loshadki",
@@ -6494,7 +6660,9 @@
     "category_order": 10,
     "cover_version": 1792064187757,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Pasakų arkliukai ir Vienaragiai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "59_kosmicheskie_issledovateli",
@@ -6571,7 +6739,9 @@
     "category_order": 20,
     "cover_version": 1792064197146,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kosmoso tyrinėtojai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "60_sozvezdiya_i_zvyozdnoe_nebo",
@@ -6648,7 +6818,9 @@
     "category_order": 20,
     "cover_version": 1792064205972,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Žvaigždynai ir Žvaigždėtas dangus",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "61_akvarium",
@@ -6725,7 +6897,9 @@
     "category_order": 20,
     "cover_version": 1792057260880,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Akvariumas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "62_geologiya_i_mineraly",
@@ -6802,7 +6976,9 @@
     "category_order": 20,
     "cover_version": 1792064229610,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Geologija ir Mineralai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "63_alpaki_i_lamy",
@@ -6878,7 +7054,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Alpakos ir Lamos",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "64_pochta_i_pisma",
@@ -6955,7 +7133,9 @@
     "category_order": 30,
     "cover_version": 1792057270187,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Paštas ir Laiškai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "65_klassicheskaya_arkhitektura",
@@ -7032,7 +7212,9 @@
     "category_order": 20,
     "cover_version": 1792064244916,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Klasikinė architektūra",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "66_aptechka_i_meditsina",
@@ -7108,7 +7290,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Vaistinėlė ir Medicina",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "67_arkhitektura_i_doma",
@@ -7184,7 +7368,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Architektūra ir Namai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "68_attraktsiony_i_luna_park",
@@ -7260,7 +7446,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Atrakcionai ir Lunaparkas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "69_babochki_i_motylki",
@@ -7337,7 +7525,9 @@
     "category_order": 30,
     "cover_version": 1792056724032,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Drugeliai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "70_balet_i_tantsy",
@@ -7414,7 +7604,9 @@
     "category_order": 20,
     "cover_version": 1792064269058,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Baletas ir Šokiai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "71_banki_i_butylochki",
@@ -7490,7 +7682,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Stiklainiai ir Buteliukai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "72_barbekyu_i_gril",
@@ -7566,7 +7760,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kepsninė ir Grilis",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "73_belki_i_burunduki",
@@ -7642,7 +7838,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Voveraitės ir Burundukai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "74_bilyard_i_bouling",
@@ -7719,7 +7917,9 @@
     "category_order": 20,
     "cover_version": 1792064293572,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Biliardas ir Boulingas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "75_gimnastika_i_akrobatika",
@@ -7796,7 +7996,9 @@
     "category_order": 20,
     "cover_version": 1792064303060,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Gimnastika ir Akrobatika",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "76_botanika_gerbariy",
@@ -7873,7 +8075,9 @@
     "category_order": 20,
     "cover_version": 1792054527875,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Botanika ir Herbariumas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "77_budilniki_i_chasy",
@@ -7950,7 +8154,9 @@
     "category_order": 30,
     "cover_version": 1792057279032,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Žadintuvai ir Laikrodžiai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "78_bulavki_i_skrepki",
@@ -8027,7 +8233,9 @@
     "category_order": 30,
     "cover_version": 1792057287811,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Smeigtukai ir Sąvaržėlės",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "79_viktorianskiy_stil_i_retro",
@@ -8103,7 +8311,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Viktorijos stilius ir Retro",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "80_vanna_i_dush",
@@ -8179,7 +8389,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Vonia ir Dušas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "81_loshadi_i_konnyy_sport",
@@ -8256,7 +8468,9 @@
     "category_order": 20,
     "cover_version": 1792057296525,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Žirgai ir Jojimas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "82_skandinavskiy_uyut",
@@ -8333,7 +8547,9 @@
     "category_order": 20,
     "cover_version": 1792064340970,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Skandinaviškas jaukumas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "83_mozaika_i_kaleydoskop",
@@ -8410,7 +8626,9 @@
     "category_order": 30,
     "cover_version": 1792064349614,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Mozaika ir Kaleidoskopas",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "84_vodnyy_sport_i_serfing",
@@ -8487,7 +8705,9 @@
     "category_order": 20,
     "cover_version": 1792064363964,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Vandens sportas ir Banglentės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "85_vozdushnye_zmei_i_shary",
@@ -8563,7 +8783,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Aitvarai ir Balionai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "86_vydry_i_bobry",
@@ -8640,7 +8862,9 @@
     "category_order": 10,
     "cover_version": 1792057323571,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Ūdros ir Bebrai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "87_vyshivka_i_pechvork",
@@ -8716,7 +8940,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Siuvinėjimas ir Skiautiniai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "88_gavayi_tropiki",
@@ -8792,7 +9018,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Havajai ir Tropikai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "89_garazh_i_instrumenty",
@@ -8868,7 +9096,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Garažas ir Įrankiai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "90_geometriya_i_figury",
@@ -8945,7 +9175,9 @@
     "category_order": 30,
     "cover_version": 1792064399050,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Geometrija ir Figūros",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "91_girlyandy_i_fonariki",
@@ -9022,7 +9254,9 @@
     "category_order": 30,
     "cover_version": 1792064407877,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Girliandos ir Žibintai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "92_glitter_i_strazy",
@@ -9098,7 +9332,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Blizgučiai ir Kristaliukai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "93_golubi_i_vorobi",
@@ -9175,7 +9411,9 @@
     "category_order": 20,
     "cover_version": 1792064416879,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Balandžiai ir Žvirbliai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "94_goncharstvo_i_keramika",
@@ -9252,7 +9490,9 @@
     "category_order": 20,
     "cover_version": 1792057359934,
     "is_disabled": true,
-    "saved_release_date": "2026-10-29"
+    "saved_release_date": "2026-10-29",
+    "title_lt": "Puodininkystė ir Keramika",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "95_graffiti_i_strit_art",
@@ -9329,7 +9569,9 @@
     "category_order": 20,
     "cover_version": 1792064428868,
     "is_disabled": true,
-    "saved_release_date": "2026-10-29"
+    "saved_release_date": "2026-10-29",
+    "title_lt": "Grafiti ir Gatvės menas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "96_gusi_i_utki",
@@ -9406,7 +9648,9 @@
     "category_order": 20,
     "cover_version": 1792064436554,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Žąsys ir Antys",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "97_dayving_i_batiskafy",
@@ -9483,7 +9727,9 @@
     "category_order": 20,
     "cover_version": 1792064447209,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Nardymas ir Batoskafas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "98_badminton_i_tennis",
@@ -9559,7 +9805,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Badmintonas ir Tenisas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "99_detektiv_i_lupa",
@@ -9636,7 +9884,9 @@
     "category_order": 20,
     "cover_version": 1792057389865,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Detektyvas ir Lupa",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "100_dzhinsy_i_denim",
@@ -9713,7 +9963,9 @@
     "category_order": 30,
     "cover_version": 1792064468888,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Džinsai ir Denzimas",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "101_didzhey_i_muzykalnyy_pult",
@@ -9789,7 +10041,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Didžėjus ir Pultas",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "102_starinnye_zamki_i_kreposti",
@@ -9866,7 +10120,9 @@
     "category_order": 20,
     "cover_version": 1792064484244,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Senovinės pilys ir Tvirtovės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "103_yashcheritsy_i_khameleony",
@@ -9943,7 +10199,9 @@
     "category_order": 10,
     "cover_version": 1792064492355,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Driežai ir Chameleonai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "104_oazis_i_verblyudy",
@@ -10020,7 +10278,9 @@
     "category_order": 20,
     "cover_version": 1792064494757,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Oazė ir Kupranugariai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "105_ezhi_i_dikobrazy",
@@ -10097,7 +10357,9 @@
     "category_order": 20,
     "cover_version": 1792064498485,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Ežiukai ir Dygliatriušiai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "106_zheleznaya_doroga_poezda",
@@ -10173,7 +10435,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Geležinkelis ir Traukiniai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "107_zhemchug_i_rakushki",
@@ -10249,7 +10513,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Perlai ir Kriauklelės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "108_zhirafy_i_zebry",
@@ -10326,7 +10592,9 @@
     "category_order": 10,
     "cover_version": 1792064518319,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Žirafos ir Zebrai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "109_zavtrak",
@@ -10403,7 +10671,9 @@
     "category_order": 20,
     "cover_version": 1792064522538,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Pusryčiai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "110_zamki_i_klyuchi",
@@ -10480,7 +10750,9 @@
     "category_order": 30,
     "cover_version": 1792064531666,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Spynos ir Raktai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "111_zimniy_sport_lyzhi_i_konki",
@@ -10556,7 +10828,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Žiemos sportas, Slidės ir Pačiūžos",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "112_roboty_i_mekhanizmy",
@@ -10633,7 +10907,9 @@
     "category_order": 20,
     "cover_version": 1792057407860,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Robotai ir Mechanizmai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "113_zontiki_i_dozhdeviki",
@@ -10710,7 +10986,9 @@
     "category_order": 30,
     "cover_version": 1792064549752,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Skėčiai ir Lietpalčiai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "114_igrushki_iz_detstva",
@@ -10786,7 +11064,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Vaikystės žaislai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "115_spetsii_i_pryanosti",
@@ -10863,7 +11143,9 @@
     "category_order": 30,
     "cover_version": 1792064564568,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Prieskoniai ir Žolelės",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "116_iskusstvo_i_zhivopis",
@@ -10939,7 +11221,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Menas ir Tapyba",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "117_beg_i_zaryadka",
@@ -11016,7 +11300,9 @@
     "category_order": 20,
     "cover_version": 1792064579988,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Bėgimas ir Mankšta",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "118_kaktusy_i_sukkulenty",
@@ -11092,7 +11378,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kaktusai ir Sukulentai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "119_kalligrafiya_i_perya",
@@ -11168,7 +11456,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kaligrafija ir Plunksnos",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "120_kassety_i_pleery",
@@ -11245,7 +11535,9 @@
     "category_order": 30,
     "cover_version": 1792064600453,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kasetės ir Grotuvai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "121_kenguru_i_koaly",
@@ -11321,7 +11613,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kengūros ir Koalos",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "122_kiberpank_futurizm",
@@ -11398,7 +11692,9 @@
     "category_order": 20,
     "cover_version": 1792064607744,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kiberpankas ir Futurizmas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "123_farfor_i_chaepitie",
@@ -11474,7 +11770,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Porcelianas ir Arbatėlė",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "124_kletki_i_skvorechniki",
@@ -11550,7 +11848,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Narveliai ir Inkilai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "125_tsirk_i_zhonglyory",
@@ -11627,7 +11927,9 @@
     "category_order": 20,
     "cover_version": 1792057444105,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Cirkas ir Žonglieriai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "126_kovry_i_gobeleny",
@@ -11703,7 +12005,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kilimai ir Gobelenai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "127_kokteyli_i_limonady",
@@ -11779,7 +12083,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kokteiliai ir Limonadai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "128_kolyosa_i_shesteryonki",
@@ -11856,7 +12162,9 @@
     "category_order": 30,
     "cover_version": 1792064633001,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Ratai ir Krumpliaračiai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "129_konstruktor_bloki",
@@ -11932,7 +12240,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Konstruktoriai ir Kaladėlės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "130_korallovyy_rif",
@@ -12009,7 +12319,9 @@
     "category_order": 20,
     "cover_version": 1792064650011,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Koralinis rifas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "131_korobki_i_upakovka",
@@ -12085,7 +12397,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Dėžutės ir Pakavimas",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "132_korolevstvo_i_korony",
@@ -12161,7 +12475,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Karalystė ir Karūnos",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "133_kosmetichka_i_makiyazh",
@@ -12238,7 +12554,9 @@
     "category_order": 20,
     "cover_version": 1792064661066,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Kosmetinė ir Makiažas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "134_kostry_i_pokhodnyy_ogon",
@@ -12315,7 +12633,9 @@
     "category_order": 20,
     "cover_version": 1792057461816,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Laužai ir Žygio ugnis",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "135_kraby_i_lobstery",
@@ -12392,7 +12712,9 @@
     "category_order": 20,
     "cover_version": 1792057471763,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Krabai ir Omarai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "136_kruzhevo_i_bantiki",
@@ -12469,7 +12791,9 @@
     "category_order": 30,
     "cover_version": 1792064670572,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Nėriniai ir Kaspinėliai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "137_kubiki_rubika_i_golovolomki",
@@ -12545,7 +12869,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Rubiko kubikai ir Galvosūkiai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "138_kukly_i_igrushechnyy_teatr",
@@ -12622,7 +12948,9 @@
     "category_order": 20,
     "cover_version": 1792057481746,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Lėlės ir Žaislų teatras",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "139_laboratoriya_i_khimiya",
@@ -12699,7 +13027,9 @@
     "category_order": 20,
     "cover_version": 1792064708268,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Laboratorija ir Chemija",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "140_lapsha_i_sushi_aziatskaya_eda",
@@ -12776,7 +13106,9 @@
     "category_order": 20,
     "cover_version": 1792057491422,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Makaronai ir Sušiai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "141_lebedi_i_flamingo",
@@ -12852,7 +13184,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Gulbės ir Flamingai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "142_lenivtsy",
@@ -12929,7 +13263,9 @@
     "category_order": 10,
     "cover_version": 1792057500889,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Tinginukai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "143_letuchie_myshi",
@@ -13006,7 +13342,9 @@
     "category_order": 20,
     "cover_version": 1792064725821,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Šikšnosparniai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "144_lyagushki_i_zhaby",
@@ -13083,7 +13421,9 @@
     "category_order": 20,
     "cover_version": 1792057518149,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Varlės ir Rupūžės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "145_magnity_na_kholodilnik",
@@ -13160,7 +13500,9 @@
     "category_order": 30,
     "cover_version": 1792064736821,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Šaldytuvo magnetukai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "146_teatralnyy_rekvizit_i_veera",
@@ -13237,7 +13579,9 @@
     "category_order": 20,
     "cover_version": 1792064746351,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Teatro rekvizitai ir Vėduoklės",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "147_mayaki_i_bereg",
@@ -13314,7 +13658,9 @@
     "category_order": 20,
     "cover_version": 1792057535459,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Švyturiai ir Pakrantė",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "148_meduzy_i_osminogi",
@@ -13391,7 +13737,9 @@
     "category_order": 20,
     "cover_version": 1792064755463,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Medužos ir Aštuonkojai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "149_meksika",
@@ -13468,7 +13816,9 @@
     "category_order": 20,
     "cover_version": 1792064762546,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Meksika",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "150_melnitsy_i_polya",
@@ -13544,7 +13894,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Malūnai ir Laukai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "151_metall_i_shesteryonki",
@@ -13620,7 +13972,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Metalas ir Krumpliaračiai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "152_morozhenoe_i_sorbety",
@@ -13696,7 +14050,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Ledai ir Sorbetai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "153_mosty_i_tonneli",
@@ -13773,7 +14129,9 @@
     "category_order": 20,
     "cover_version": 1792064783869,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Tiltai ir Tuneliai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "154_mototsikly_i_skutery",
@@ -13850,7 +14208,9 @@
     "category_order": 20,
     "cover_version": 1792057563344,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Motociklai ir Motoroleriai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "155_muzykalnye_instrumenty",
@@ -13926,7 +14286,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Muzikos instrumentai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "156_mylnye_puzyri",
@@ -14003,7 +14365,9 @@
     "category_order": 30,
     "cover_version": 1792064800459,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Muilo burbulai",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "157_myagkie_igrushki",
@@ -14079,7 +14443,9 @@
     "category_en": "Stories & Seasons",
     "category_order": 20,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Pliušiniai žaislai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "158",
@@ -14156,7 +14522,9 @@
     "category_order": 20,
     "cover_version": 1792057572136,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Apdovanojimai, Taurės ir Medaliai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "159_naryadnye_platya_i_kostyumy",
@@ -14233,7 +14601,9 @@
     "category_order": 20,
     "cover_version": 1792064867889,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Iškilmingos suknelės ir Kostiumai",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "160_nastolnye_lampy_i_svetilniki",
@@ -14310,7 +14680,9 @@
     "category_order": 10,
     "cover_version": 1792064872064,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Stalinės lempos ir Šviestuvai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "161_nauka_i_fizika",
@@ -14387,7 +14759,9 @@
     "category_order": 20,
     "cover_version": 1792064878035,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Mokslas ir Fizika",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "162_tsvetushchaya_sakura_i_yaponskiy_sad",
@@ -14462,7 +14836,9 @@
     "category_uk": "Сюжети і Сезони",
     "category_en": "Stories & Seasons",
     "category_order": 20,
-    "is_disabled": false
+    "is_disabled": false,
+    "title_lt": "Žydinti sakura ir Japonų sodas",
+    "category_lt": "Siužetai ir Sezonai"
   },
   {
     "id": "163_akuly",
@@ -14539,7 +14915,9 @@
     "category_order": 10,
     "cover_version": 1792057589442,
     "is_disabled": false,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Rykliukai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "164_shtampy_i_pechati",
@@ -14615,7 +14993,9 @@
     "category_en": "Cozy & Decor",
     "category_order": 30,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Antspaudai ir Spauda",
+    "category_lt": "Jaukumas ir Dekoras"
   },
   {
     "id": "165_frantsuzskie_buldogi",
@@ -14691,7 +15071,9 @@
     "category_en": "Pets & Animals",
     "category_order": 10,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Prancūzų buldogai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "166_chikhuakhua",
@@ -14768,7 +15150,9 @@
     "category_order": 10,
     "cover_version": 1792064890161,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Čihuahua",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "167",
@@ -14845,7 +15229,9 @@
     "category_order": 10,
     "cover_version": 1792064894221,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Meškėnai",
+    "category_lt": "Augintiniai ir Žvėreliai"
   },
   {
     "id": "168",
@@ -14922,6 +15308,8 @@
     "category_order": 10,
     "cover_version": 1792064901669,
     "is_disabled": true,
-    "saved_release_date": "2026-01-01"
+    "saved_release_date": "2026-01-01",
+    "title_lt": "Laputės",
+    "category_lt": "Augintiniai ir Žvėreliai"
   }
 ]
