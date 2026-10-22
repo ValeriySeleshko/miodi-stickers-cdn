@@ -417,7 +417,7 @@
       "dogs_56.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-10-22",
     "title_uk": "Собаки",
     "cover_version": 1792063322393,
     "category_id": "ELITE",
@@ -426,8 +426,8 @@
     "category_uk": "Улюбленці",
     "category_en": "Pets & Animals",
     "category_order": 10,
-    "is_disabled": true,
-    "saved_release_date": "2026-01-01",
+    "is_disabled": false,
+    "saved_release_date": "2026-10-22",
     "title_lt": "Šunys",
     "category_lt": "Augintiniai ir Žvėreliai"
   },
@@ -496,7 +496,7 @@
       "forest_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-10-22",
     "title_uk": "Ліс",
     "cover_version": 1792052662535,
     "category_id": "STANDARD",
@@ -505,8 +505,8 @@
     "category_uk": "Сюжети і Сезони",
     "category_en": "Stories & Seasons",
     "category_order": 20,
-    "is_disabled": true,
-    "saved_release_date": "2026-01-01",
+    "is_disabled": false,
+    "saved_release_date": "2026-10-22",
     "title_lt": "Miškas",
     "category_lt": "Siužetai ir Sezonai"
   },
