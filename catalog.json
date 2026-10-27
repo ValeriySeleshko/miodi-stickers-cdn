@@ -15322,7 +15322,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-10-27",
+    "release_date": "2099-12-31",
     "asset_category_key": "anime1",
     "stickers_count": 49,
     "source_file": "Anime1.jpg",
@@ -15387,7 +15387,7 @@
     "category_en": "Stories & Seasons",
     "category_lt": "Siužetai ir Sezonai",
     "category_order": 20,
-    "is_disabled": false,
+    "is_disabled": true,
     "title_lt": "Аnimė 1",
     "saved_release_date": "2026-10-27"
   },
@@ -15401,7 +15401,7 @@
     "tier": "STANDARD",
     "price_rub": 169,
     "price_formatted": "169 ₽",
-    "release_date": "2026-10-27",
+    "release_date": "2099-12-31",
     "asset_category_key": "anime2",
     "stickers_count": 49,
     "source_file": "Anime2.jpg",
@@ -15466,7 +15466,7 @@
     "category_en": "Stories & Seasons",
     "category_lt": "Siužetai ir Sezonai",
     "category_order": 20,
-    "is_disabled": false,
+    "is_disabled": true,
     "title_lt": "Аnimė 2",
     "saved_release_date": "2026-10-27"
   }
