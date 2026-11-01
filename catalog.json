@@ -14766,8 +14766,8 @@
   {
     "id": "162_tsvetushchaya_sakura_i_yaponskiy_sad",
     "title_ru": "Цветущая сакура и Японский сад",
-    "title_uk": "Квіти",
-    "title_en": "Lovely Flowers",
+    "title_uk": "Квітуча сакура та Японський сад",
+    "title_en": "Cherry Blossom & Japanese Garden",
     "emoji": "🌸",
     "description_ru": "Цветущая сакура и Японский сад — коллекционный набор стикеров для уютного ежедневника",
     "tier": "STANDARD",
@@ -14838,7 +14838,8 @@
     "category_order": 20,
     "is_disabled": false,
     "title_lt": "Žydinti sakura ir Japonų sodas",
-    "category_lt": "Siužetai ir Sezonai"
+    "category_lt": "Siužetai ir Sezonai",
+    "cover_version": 1793530396907
   },
   {
     "id": "163_akuly",
@@ -15315,7 +15316,7 @@
   {
     "id": "anime1",
     "title_ru": "Anime 1",
-    "title_uk": "Anime 1",
+    "title_uk": "Anime1",
     "title_en": "Anime 1",
     "emoji": "✨",
     "description_ru": "Anime 1 — коллекционный набор стикеров для уютного ежедневника",
@@ -15394,7 +15395,7 @@
   {
     "id": "anime2",
     "title_ru": "Anime 2",
-    "title_uk": "Anime 2",
+    "title_uk": "Anime2",
     "title_en": "Anime 2",
     "emoji": "✨",
     "description_ru": "Anime 2 — коллекционный набор стикеров для уютного ежедневника",
