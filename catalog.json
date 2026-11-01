@@ -575,7 +575,7 @@
       "golden_retriever_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-11-01",
     "title_uk": "Ретривер",
     "cover_version": 1792052149319,
     "category_id": "ELITE",
@@ -584,8 +584,8 @@
     "category_uk": "Улюбленці",
     "category_en": "Pets & Animals",
     "category_order": 10,
-    "is_disabled": true,
-    "saved_release_date": "2026-01-01",
+    "is_disabled": false,
+    "saved_release_date": "2026-11-01",
     "title_lt": "Retriveriai",
     "category_lt": "Augintiniai ir Žvėreliai"
   },
@@ -811,7 +811,7 @@
       "kitchen_49.webp"
     ],
     "preview": "preview.webp",
-    "release_date": "2099-12-31",
+    "release_date": "2026-11-01",
     "title_uk": "Кухня",
     "cover_version": 1792052922969,
     "category_id": "CAT_MISCELLANEOUS_156",
@@ -820,8 +820,8 @@
     "category_uk": "Різне",
     "category_en": "Miscellaneous",
     "category_order": 40,
-    "is_disabled": true,
-    "saved_release_date": "2026-01-01",
+    "is_disabled": false,
+    "saved_release_date": "2026-11-01",
     "title_lt": "Virtuvė",
     "category_lt": "Įvairūs"
   },
